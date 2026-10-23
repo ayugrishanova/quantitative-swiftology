@@ -1,0 +1,5 @@
+title: My Personal Site
+description: A website built entirely with Markdown files.
+theme: minima 
+
+markdown: GFM 
