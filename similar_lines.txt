@@ -1,0 +1,3400 @@
+Song:  You Are In Love 	 Line:  and so it go
+Song:  The Very First Night (Taylor's Version) (From The Vault) 	 Line:  and so it go Similarity:  1.0
+
+
+Song:  Bad Blood 	 Line:  hey
+Song:  Shake It Off 	 Line:  hey hey hey Similarity:  1.0
+Song:  All You Had To Do Was Stay 	 Line:  hey hey hey Similarity:  1.0
+
+
+Song:  Clean 	 Line:  oh oh oh oh
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  Question...? 	 Line:  I remember
+Song:  Sweet Tea And God's Graces 	 Line:  I remember Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  I remember Similarity:  1.0
+
+
+Song:  Question...? 	 Line:  by the way
+Song:  By The Way 	 Line:  by the way Similarity:  1.0
+Song:  Picture To Burn 	 Line:  by the way Similarity:  1.0
+
+
+Song:  Sweet Tea And God's Graces 	 Line:  I remember
+Song:  Question...? 	 Line:  I remember Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  I remember Similarity:  1.0
+
+
+Song:  End Game 	 Line:  Taylor Swift
+Song:  coney island 	 Line:  Taylor Swift Similarity:  1.0
+Song:  no body, no crime 	 Line:  Taylor Swift Similarity:  1.0
+Song:  I Don't Wanna Live Forever 	 Line:  Taylor Swift Similarity:  1.0
+Song:  exile 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  You All Over Me (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  The Last Time 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Thug Story 	 Line:  Taylor Swift Similarity:  1.0
+Song:  ME! 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Breathe 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  Taylor Swift Similarity:  1.0
+Song:  evermore 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When 	 Line:  Taylor Swift Similarity:  1.0
+
+
+Song:  End Game 	 Line:  Ed Sheeran
+Song:  Everything Has Changed 	 Line:  Ed Sheeran Similarity:  1.0
+
+
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  Out Of The Woods 	 Line:  I remember
+Song:  Question...? 	 Line:  I remember Similarity:  1.0
+Song:  Sweet Tea And God's Graces 	 Line:  I remember Similarity:  1.0
+
+
+Song:  Out Of The Woods 	 Line:  oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  Out Of The Woods 	 Line:  yeah
+Song:  Better Man 	 Line:  yeah yeah Similarity:  1.0
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  yeah yeah Similarity:  1.0
+Song:  Tell Me 	 Line:  yeah yeah Similarity:  1.0
+Song:  Fearless 	 Line:  yeah Similarity:  1.0
+Song:  Cruel Summer 	 Line:  yeah yeah yeah yeah Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  yeah yeah Similarity:  1.0
+Song:  22 	 Line:  yeah Similarity:  1.0
+Song:  Mine 	 Line:  yeah yeah Similarity:  1.0
+Song:  Red 	 Line:  yeah yeah Similarity:  1.0
+Song:  long story short 	 Line:  yeah yeah Similarity:  1.0
+
+
+Song:  We Were Happy 	 Line:  oh oh oh oh oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  Labyrinth 	 Line:  oh I be fall in love fall in love
+Song:  Labyrinth 	 Line:  oh I be fall in love fall in love Similarity:  1.0
+
+
+Song:  Labyrinth 	 Line:  oh I be fall in love fall in love
+Song:  Labyrinth 	 Line:  oh I be fall in love fall in love Similarity:  1.0
+
+
+Song:  Should've Said No 	 Line:  no no no no
+Song:  You're Not Sorry 	 Line:  no no no no Similarity:  1.0
+Song:  no body, no crime 	 Line:  no no body no crime Similarity:  0.905
+Song:  Better Than Revenge 	 Line:  no no no no Similarity:  1.0
+Song:  august 	 Line:  no Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  no Similarity:  1.0
+
+
+Song:  Baby, Don't You Break My Heart Slow 	 Line:  oh yeah yeah
+Song:  Nevermind 	 Line:  yeah oh yeah Similarity:  1.0
+Song:  The Outside 	 Line:  oh yeah Similarity:  0.949
+Song:  Fearless 	 Line:  oh yeah Similarity:  0.949
+Song:  22 	 Line:  oh yeah Similarity:  0.949
+Song:  Look At You Like That 	 Line:  oh yeah Similarity:  0.949
+Song:  Live For The Little Things 	 Line:  oh yeah Similarity:  0.949
+Song:  Permanent Marker 	 Line:  oh yeah Similarity:  0.949
+Song:  Matches 	 Line:  oh yeah Similarity:  0.949
+Song:  Our Song 	 Line:  oh yeah Similarity:  0.949
+
+
+Song:  You're Not Sorry 	 Line:  no no no no
+Song:  Should've Said No 	 Line:  no no no no Similarity:  1.0
+Song:  no body, no crime 	 Line:  no no body no crime Similarity:  0.905
+Song:  Better Than Revenge 	 Line:  no no no no Similarity:  1.0
+Song:  august 	 Line:  no Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  no Similarity:  1.0
+
+
+Song:  imgonnagetyouback 	 Line:  you be mine
+Song:  Christmases When You Were Mine 	 Line:  you be mine Similarity:  1.0
+
+
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  0.995
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  0.995
+Song:  Out Of The Woods 	 Line:  oh Similarity:  0.995
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  0.995
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.965
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.91
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  0.995
+Song:  Fearless 	 Line:  oh oh Similarity:  0.995
+Song:  This Is Really Happening 	 Line:  oh Similarity:  0.995
+Song:  Made Up You 	 Line:  oh oh Similarity:  0.995
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  0.995
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  0.995
+Song:  Speak Now 	 Line:  oh oh Similarity:  0.995
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  0.995
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  0.995
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.957
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  0.995
+Song:  Haunted 	 Line:  oh Similarity:  0.995
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  0.995
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  0.995
+Song:  Wonderland 	 Line:  oh Similarity:  0.995
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  0.995
+Song:  Me And Britney 	 Line:  oh oh Similarity:  0.995
+Song:  Love Story 	 Line:  oh oh Similarity:  0.995
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  0.995
+Song:  Under My Head 	 Line:  oh oh Similarity:  0.995
+Song:  Honey Baby 	 Line:  oh Similarity:  0.995
+Song:  Change 	 Line:  oh oh Similarity:  0.995
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  0.995
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.944
+
+
+Song:  You Need To Calm Down 	 Line:  we all know now
+Song:  State Of Grace 	 Line:  now all we know Similarity:  1.0
+
+
+Song:  Nevermind 	 Line:  look at you
+Song:  Making Up For Lost Love 	 Line:  just look at you look at I Similarity:  0.913
+Song:  Look At You Like That 	 Line:  look at you look at you look at you Similarity:  1.0
+
+
+Song:  Nevermind 	 Line:  I love you
+Song:  Christmas Tree Farm 	 Line:  I love you Similarity:  1.0
+
+
+Song:  Nevermind 	 Line:  all the time
+Song:  Back To December 	 Line:  all the time Similarity:  1.0
+
+
+Song:  Nevermind 	 Line:  yeah oh yeah
+Song:  Baby, Don't You Break My Heart Slow 	 Line:  oh yeah yeah Similarity:  1.0
+Song:  The Outside 	 Line:  oh yeah Similarity:  0.949
+Song:  Fearless 	 Line:  oh yeah Similarity:  0.949
+Song:  22 	 Line:  oh yeah Similarity:  0.949
+Song:  Look At You Like That 	 Line:  oh yeah Similarity:  0.949
+Song:  Live For The Little Things 	 Line:  oh yeah Similarity:  0.949
+Song:  Permanent Marker 	 Line:  oh yeah Similarity:  0.949
+Song:  Matches 	 Line:  oh yeah Similarity:  0.949
+Song:  Our Song 	 Line:  oh yeah Similarity:  0.949
+
+
+Song:  So High School 	 Line:  have I
+Song:  Thug Story 	 Line:  I have Similarity:  1.0
+
+
+Song:  invisible string 	 Line:  ooh ooh ooh ooh
+Song:  Lavender Haze 	 Line:  Ooh ooh ooh whoa Similarity:  0.949
+Song:  Dancing With Our Hands Tied 	 Line:  Ooh ooh ooh ooh Similarity:  1.0
+Song:  It's Nice To Have A Friend 	 Line:  Ooh Similarity:  1.0
+Song:  22 	 Line:  ooh ooh Similarity:  1.0
+Song:  The Prophecy 	 Line:  Ooh Similarity:  1.0
+Song:  Safe & Sound 	 Line:  Ooh ooh ooh ooh Similarity:  1.0
+Song:  The Moment I Knew 	 Line:  Ooh Similarity:  1.0
+Song:  Sweet Nothing 	 Line:  Ooh Similarity:  1.0
+Song:  ME! 	 Line:  ooh ooh ooh ooh Similarity:  1.0
+Song:  dorothea 	 Line:  ooh woo ooh ooh ooh ooh ooh ooh ooh Similarity:  0.992
+
+
+Song:  invisible string 	 Line:  ah ah ah
+Song:  exile 	 Line:  ah ah Similarity:  1.0
+Song:  Don't You (Taylor's Version) (From The Vault) 	 Line:  ah ah ah ah Similarity:  1.0
+Song:  New Romantics 	 Line:  ah ah ah ah ah ah Similarity:  1.0
+Song:  Paper Rings 	 Line:  ah Similarity:  1.0
+
+
+Song:  White Horse 	 Line:  hold on
+Song:  Mine 	 Line:  hold on Similarity:  1.0
+Song:  Thug Story 	 Line:  hey hold on hold on Similarity:  0.943
+
+
+Song:  White Horse 	 Line:  now I know
+Song:  cowboy like me 	 Line:  now I know Similarity:  1.0
+
+
+Song:  Our Last Night 	 Line:  oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  Better Man 	 Line:  I know I be probably well off on my own
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  I know I be probably well off on my own Similarity:  1.0
+
+
+Song:  Better Man 	 Line:  and I see the permanent damage you do to I
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  and I see the permanent damage you do to I Similarity:  1.0
+
+
+Song:  Better Man 	 Line:  never again I just wish I could forget when it be magic
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  never again I just wish I could forget when it be magic Similarity:  1.0
+
+
+Song:  Better Man 	 Line:  say to myself you know you have to do it
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  say to myself you know you have to do it Similarity:  1.0
+
+
+Song:  Better Man 	 Line:  I know the brave thing I ever do be run
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  I know the brave thing I ever do be run Similarity:  1.0
+
+
+Song:  Better Man 	 Line:  sometimes in the middle of the night I can feel you again
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  sometimes in the middle of the night I can feel you again Similarity:  1.0
+
+
+Song:  Better Man 	 Line:  but I just miss you and I just wish you be a well man
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  but I just miss you and I just wish you be a well man Similarity:  1.0
+
+
+Song:  Better Man 	 Line:  and I know why we have to say goodbye like the back of my hand
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  and I know why we have to say goodbye like the back of my hand Similarity:  1.0
+
+
+Song:  Better Man 	 Line:  a well man
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  a well man Similarity:  1.0
+
+
+Song:  Better Man 	 Line:  I know I be probably well off all alone
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  I know I be probably well off all alone Similarity:  1.0
+
+
+Song:  Better Man 	 Line:  and it be always on your term
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  and it be always on your term Similarity:  1.0
+
+
+Song:  Better Man 	 Line:  I wait on every careless word
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  I wait on every careless word Similarity:  1.0
+
+
+Song:  Better Man 	 Line:  like it be in the beginning
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  like it be in the beginning Similarity:  1.0
+
+
+Song:  Better Man 	 Line:  but your jealousy oh I can hear it now
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  but your jealousy oh I can hear it now Similarity:  1.0
+
+
+Song:  Better Man 	 Line:  oh you never think I would run
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  oh you never think I would run Similarity:  1.0
+
+
+Song:  Better Man 	 Line:  I hold onto this pride because these day it be all I have
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  I hold onto this pride because these day it be all I have Similarity:  1.0
+
+
+Song:  Better Man 	 Line:  and I give to you my good and we both know you can not say that
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  and I give to you my good and we both know you can not say that Similarity:  1.0
+
+
+Song:  Better Man 	 Line:  I wish you be a well man
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  I wish you be a well man Similarity:  1.0
+
+
+Song:  Better Man 	 Line:  I wonder what we would 've become
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  I wonder what we would 've become Similarity:  1.0
+
+
+Song:  Better Man 	 Line:  if you be a well man
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  if you be a well man Similarity:  1.0
+
+
+Song:  Better Man 	 Line:  we might still be in love
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  we might still be in love Similarity:  1.0
+
+
+Song:  Better Man 	 Line:  you would 've be the one
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  you would 've be the one Similarity:  1.0
+Song:  the 1 	 Line:  if you would 've be the one Similarity:  0.926
+
+
+Song:  Better Man 	 Line:  yeah yeah
+Song:  Out Of The Woods 	 Line:  yeah Similarity:  1.0
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  yeah yeah Similarity:  1.0
+Song:  Tell Me 	 Line:  yeah yeah Similarity:  1.0
+Song:  Fearless 	 Line:  yeah Similarity:  1.0
+Song:  Cruel Summer 	 Line:  yeah yeah yeah yeah Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  yeah yeah Similarity:  1.0
+Song:  22 	 Line:  yeah Similarity:  1.0
+Song:  Mine 	 Line:  yeah yeah Similarity:  1.0
+Song:  Red 	 Line:  yeah yeah Similarity:  1.0
+Song:  long story short 	 Line:  yeah yeah Similarity:  1.0
+
+
+Song:  Better Man 	 Line:  we might still be in love if you be a well man
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  we might still be in love if you be a well man Similarity:  1.0
+
+
+Song:  Revenge 	 Line:  baby baby r E v E n G e
+Song:  This Is Really Happening 	 Line:  Baby Similarity:  1.0
+
+
+Song:  coney island 	 Line:  Taylor Swift
+Song:  End Game 	 Line:  Taylor Swift Similarity:  1.0
+Song:  no body, no crime 	 Line:  Taylor Swift Similarity:  1.0
+Song:  I Don't Wanna Live Forever 	 Line:  Taylor Swift Similarity:  1.0
+Song:  exile 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  You All Over Me (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  The Last Time 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Thug Story 	 Line:  Taylor Swift Similarity:  1.0
+Song:  ME! 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Breathe 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  Taylor Swift Similarity:  1.0
+Song:  evermore 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When 	 Line:  Taylor Swift Similarity:  1.0
+
+
+Song:  In The Pouring Rain 	 Line:  in the pour rain
+Song:  Better Off 	 Line:  in the pour rain Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  I know I be probably well off on my own
+Song:  Better Man 	 Line:  I know I be probably well off on my own Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  and I see the permanent damage you do to I
+Song:  Better Man 	 Line:  and I see the permanent damage you do to I Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  never again I just wish I could forget when it be magic
+Song:  Better Man 	 Line:  never again I just wish I could forget when it be magic Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  say to myself you know you have to do it
+Song:  Better Man 	 Line:  say to myself you know you have to do it Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  I know the brave thing I ever do be run
+Song:  Better Man 	 Line:  I know the brave thing I ever do be run Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  sometimes in the middle of the night I can feel you again
+Song:  Better Man 	 Line:  sometimes in the middle of the night I can feel you again Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  but I just miss you and I just wish you be a well man
+Song:  Better Man 	 Line:  but I just miss you and I just wish you be a well man Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  and I know why we have to say goodbye like the back of my hand
+Song:  Better Man 	 Line:  and I know why we have to say goodbye like the back of my hand Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  a well man
+Song:  Better Man 	 Line:  a well man Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  I know I be probably well off all alone
+Song:  Better Man 	 Line:  I know I be probably well off all alone Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  and it be always on your term
+Song:  Better Man 	 Line:  and it be always on your term Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  I wait on every careless word
+Song:  Better Man 	 Line:  I wait on every careless word Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  like it be in the beginning
+Song:  Better Man 	 Line:  like it be in the beginning Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  but your jealousy oh I can hear it now
+Song:  Better Man 	 Line:  but your jealousy oh I can hear it now Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  oh you never think I would run
+Song:  Better Man 	 Line:  oh you never think I would run Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  I hold onto this pride because these day it be all I have
+Song:  Better Man 	 Line:  I hold onto this pride because these day it be all I have Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  and I give to you my good and we both know you can not say that
+Song:  Better Man 	 Line:  and I give to you my good and we both know you can not say that Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  I wish you be a well man
+Song:  Better Man 	 Line:  I wish you be a well man Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  I wonder what we would 've become
+Song:  Better Man 	 Line:  I wonder what we would 've become Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  if you be a well man
+Song:  Better Man 	 Line:  if you be a well man Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  we might still be in love
+Song:  Better Man 	 Line:  we might still be in love Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  you would 've be the one
+Song:  Better Man 	 Line:  you would 've be the one Similarity:  1.0
+Song:  the 1 	 Line:  if you would 've be the one Similarity:  0.926
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  yeah yeah
+Song:  Out Of The Woods 	 Line:  yeah Similarity:  1.0
+Song:  Better Man 	 Line:  yeah yeah Similarity:  1.0
+Song:  Tell Me 	 Line:  yeah yeah Similarity:  1.0
+Song:  Fearless 	 Line:  yeah Similarity:  1.0
+Song:  Cruel Summer 	 Line:  yeah yeah yeah yeah Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  yeah yeah Similarity:  1.0
+Song:  22 	 Line:  yeah Similarity:  1.0
+Song:  Mine 	 Line:  yeah yeah Similarity:  1.0
+Song:  Red 	 Line:  yeah yeah Similarity:  1.0
+Song:  long story short 	 Line:  yeah yeah Similarity:  1.0
+
+
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  we might still be in love if you be a well man
+Song:  Better Man 	 Line:  we might still be in love if you be a well man Similarity:  1.0
+
+
+Song:  The Outside 	 Line:  oh yeah
+Song:  Baby, Don't You Break My Heart Slow 	 Line:  oh yeah yeah Similarity:  0.949
+Song:  Nevermind 	 Line:  yeah oh yeah Similarity:  0.949
+Song:  Fearless 	 Line:  oh yeah Similarity:  1.0
+Song:  Til Brad Pitt Comes Along 	 Line:  yeah oh oh Similarity:  0.949
+Song:  22 	 Line:  oh yeah Similarity:  1.0
+Song:  Look At You Like That 	 Line:  oh yeah Similarity:  1.0
+Song:  Live For The Little Things 	 Line:  oh yeah Similarity:  1.0
+Song:  Permanent Marker 	 Line:  oh yeah Similarity:  1.0
+Song:  Matches 	 Line:  oh yeah Similarity:  1.0
+Song:  Our Song 	 Line:  oh yeah Similarity:  1.0
+
+
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  it be not just like a movie
+Song:  One Thing 	 Line:  it be not just like a movie Similarity:  1.0
+
+
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  the rain do not soak through my clothe down to my skin
+Song:  One Thing 	 Line:  the rain do not soak through my clothe down to my skin Similarity:  1.0
+
+
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  I be drive away and I I guess you could say
+Song:  One Thing 	 Line:  I be drive away and I I guess you could say Similarity:  1.0
+
+
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  this be the last time I will drive this way again
+Song:  One Thing 	 Line:  this be the last time I will drive this way again Similarity:  1.0
+
+
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  'cause I I still love you but I can not
+Song:  One Thing 	 Line:  'cause I I still love you but I can not Similarity:  1.0
+
+
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  Bye bye to everything I think be on my side
+Song:  One Thing 	 Line:  Bye bye to everything I think be on my side Similarity:  1.0
+
+
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  Bye bye baby
+Song:  One Thing 	 Line:  Bye bye baby Similarity:  1.0
+
+
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  I want you back but it be come down to nothing
+Song:  One Thing 	 Line:  I want you back but it be come down to nothing Similarity:  1.0
+
+
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  the picture frame be empty
+Song:  One Thing 	 Line:  the picture frame be empty Similarity:  1.0
+
+
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  and there be so much that I can not touch
+Song:  One Thing 	 Line:  and there be so much that I can not touch Similarity:  1.0
+
+
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  you be all I want but it be not enough this time
+Song:  One Thing 	 Line:  you be all I want but it be not enough this time Similarity:  1.0
+
+
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  and I be so scared of how this end
+Song:  One Thing 	 Line:  and I be so scared of how this end Similarity:  1.0
+
+
+Song:  Better Off 	 Line:  in the pour rain
+Song:  In The Pouring Rain 	 Line:  in the pour rain Similarity:  1.0
+
+
+Song:  Girl At Home 	 Line:  uh uh
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  uh uh uh uh Similarity:  1.0
+
+
+Song:  Girl At Home 	 Line:  and I say
+Song:  Stay Stay Stay 	 Line:  and I say Similarity:  1.0
+Song:  Brought Up That Way 	 Line:  and say Similarity:  1.0
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and I say Similarity:  1.0
+Song:  Love Story 	 Line:  and I say Similarity:  1.0
+Song:  Honey Baby 	 Line:  and I say Similarity:  1.0
+Song:  That's When 	 Line:  and I say Similarity:  1.0
+
+
+Song:  Same Girl 	 Line:  do do do do do
+Song:  I Forgot That You Existed 	 Line:  I do I do I do Similarity:  1.0
+
+
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight Similarity:  1.0
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight Similarity:  1.0
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight ah Similarity:  0.973
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight Similarity:  1.0
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight Similarity:  1.0
+
+
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight Similarity:  1.0
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight Similarity:  1.0
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight ah Similarity:  0.973
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight Similarity:  1.0
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight Similarity:  1.0
+
+
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight Similarity:  1.0
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight Similarity:  1.0
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight ah Similarity:  0.973
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight Similarity:  1.0
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight Similarity:  1.0
+
+
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight Similarity:  1.0
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight Similarity:  1.0
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight Similarity:  1.0
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight ah Similarity:  0.973
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight Similarity:  1.0
+
+
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight Similarity:  1.0
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight Similarity:  1.0
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight Similarity:  1.0
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight ah Similarity:  0.973
+Song:  Daylight 	 Line:  I only see daylight daylight daylight daylight Similarity:  1.0
+
+
+Song:  Christmases When You Were Mine 	 Line:  you be mine
+Song:  imgonnagetyouback 	 Line:  you be mine Similarity:  1.0
+
+
+Song:  this is me trying 	 Line:  I just want you to know
+Song:  Christmas Tree Farm 	 Line:  I just want you to know Similarity:  1.0
+
+
+Song:  Tell Me 	 Line:  tell I
+Song:  This Is Really Happening 	 Line:  tell I Similarity:  1.0
+
+
+Song:  Tell Me 	 Line:  yeah yeah
+Song:  Out Of The Woods 	 Line:  yeah Similarity:  1.0
+Song:  Better Man 	 Line:  yeah yeah Similarity:  1.0
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  yeah yeah Similarity:  1.0
+Song:  Fearless 	 Line:  yeah Similarity:  1.0
+Song:  Cruel Summer 	 Line:  yeah yeah yeah yeah Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  yeah yeah Similarity:  1.0
+Song:  22 	 Line:  yeah Similarity:  1.0
+Song:  Mine 	 Line:  yeah yeah Similarity:  1.0
+Song:  Red 	 Line:  yeah yeah Similarity:  1.0
+Song:  long story short 	 Line:  yeah yeah Similarity:  1.0
+
+
+Song:  Bejeweled 	 Line:  and by the way
+Song:  By The Way 	 Line:  and by the way Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  I walk through the door with you the air be cold
+Song:  All Too Well 	 Line:  I walk through the door with you the air be cold Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  but something 'bout it feel like home somehow
+Song:  All Too Well 	 Line:  but something 'bout it feel like home somehow Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  and I leave my scarf there at your sister 's house
+Song:  All Too Well 	 Line:  and I leave my scarf there at your sister 's house Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  and you have still get it in your drawer even now
+Song:  All Too Well 	 Line:  and you have still get it in your drawer even now Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh your sweet disposition and my wide eyed gaze
+Song:  All Too Well 	 Line:  oh your sweet disposition and my wide eyed gaze Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  we be sing in the car getting lose upstate
+Song:  All Too Well 	 Line:  we be sing in the car getting lose Upstate Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  Autumn leave fall down like piece into place
+Song:  All Too Well 	 Line:  Autumn leave fall down like piece into place Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  and I can picture it after all these day
+Song:  All Too Well 	 Line:  and I can picture it after all these day Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  'cause there we be again on that little town street
+Song:  All Too Well 	 Line:  'cause there we be again on that little town street Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  photo album on the counter your cheek be turn red
+Song:  All Too Well 	 Line:  photo album on the counter your cheek be turn red Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  you use to be a little kid with glass in a twin sized bed
+Song:  All Too Well 	 Line:  you use to be a little kid with glass in a twin sized bed Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  and I forget about you long enough
+Song:  All Too Well 	 Line:  and I forget about you long enough Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  to forget why I need to
+Song:  All Too Well 	 Line:  to forget why I need to Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  'cause there we be again in the middle of the night
+Song:  All Too Well 	 Line:  'cause there we be again in the middle of the night Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  we be dance round the kitchen in the refrigerator light
+Song:  All Too Well 	 Line:  we be dance round the kitchen in the refrigerator light Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  and you call I up again just to break I like a promise
+Song:  All Too Well 	 Line:  and you call I up again just to break I like a promise Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  so casually cruel in the name of be honest
+Song:  All Too Well 	 Line:  so casually cruel in the name of be honest Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  I be a crumpled up piece of paper lie here
+Song:  All Too Well 	 Line:  I be a crumpled up piece of paper lie here Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  time will not fly it be like I be paralyze by it
+Song:  All Too Well 	 Line:  time will not fly it be like I be paralyze by it Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  I would like to be my old self again but I be still try to find it
+Song:  All Too Well 	 Line:  I would like to be my old self again but I be still try to find it Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  after plaid shirt day and night when you make I your own
+Song:  All Too Well 	 Line:  after plaid shirt day and night when you make I your own Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  now you mail back my thing and I walk home alone
+Song:  All Too Well 	 Line:  now you mail back my thing and I walk home alone Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  but you keep my old scarf from that very first week
+Song:  All Too Well 	 Line:  but you keep my old scarf from that very first week Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  'cause it remind you of innocence and it smell like I
+Song:  All Too Well 	 Line:  'cause it remind you of innocence and it smell like I Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  'cause there we be again when I love you so
+Song:  All Too Well 	 Line:  'cause there we be again when I love you so Similarity:  1.0
+
+
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  back before you lose the one real thing you have ever know
+Song:  All Too Well 	 Line:  back before you lose the one real thing you have ever know Similarity:  1.0
+
+
+Song:  The Very First Night (Taylor's Version) (From The Vault) 	 Line:  and so it go
+Song:  You Are In Love 	 Line:  and so it go Similarity:  1.0
+
+
+Song:  no body, no crime 	 Line:  Taylor Swift
+Song:  End Game 	 Line:  Taylor Swift Similarity:  1.0
+Song:  coney island 	 Line:  Taylor Swift Similarity:  1.0
+Song:  I Don't Wanna Live Forever 	 Line:  Taylor Swift Similarity:  1.0
+Song:  exile 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  You All Over Me (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  The Last Time 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Thug Story 	 Line:  Taylor Swift Similarity:  1.0
+Song:  ME! 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Breathe 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  Taylor Swift Similarity:  1.0
+Song:  evermore 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When 	 Line:  Taylor Swift Similarity:  1.0
+
+
+Song:  no body, no crime 	 Line:  'cause
+Song:  thanK you aIMee 	 Line:  'cause Similarity:  1.0
+Song:  Call It What You Want 	 Line:  'cause Similarity:  1.0
+
+
+Song:  Dancing With Our Hands Tied 	 Line:  Ooh ooh ooh ooh
+Song:  Lavender Haze 	 Line:  Ooh ooh ooh whoa Similarity:  0.949
+Song:  invisible string 	 Line:  ooh ooh ooh ooh Similarity:  1.0
+Song:  It's Nice To Have A Friend 	 Line:  Ooh Similarity:  1.0
+Song:  22 	 Line:  ooh ooh Similarity:  1.0
+Song:  The Prophecy 	 Line:  Ooh Similarity:  1.0
+Song:  Safe & Sound 	 Line:  Ooh ooh ooh ooh Similarity:  1.0
+Song:  The Moment I Knew 	 Line:  Ooh Similarity:  1.0
+Song:  Sweet Nothing 	 Line:  Ooh Similarity:  1.0
+Song:  ME! 	 Line:  ooh ooh ooh ooh Similarity:  1.0
+Song:  dorothea 	 Line:  ooh woo ooh ooh ooh ooh ooh ooh ooh Similarity:  0.992
+
+
+Song:  Stay Stay Stay 	 Line:  and I say
+Song:  Girl At Home 	 Line:  and I say Similarity:  1.0
+Song:  Brought Up That Way 	 Line:  and say Similarity:  1.0
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and I say Similarity:  1.0
+Song:  Love Story 	 Line:  and I say Similarity:  1.0
+Song:  Honey Baby 	 Line:  and I say Similarity:  1.0
+Song:  That's When 	 Line:  and I say Similarity:  1.0
+
+
+Song:  Stay Stay Stay 	 Line:  stay stay stay
+Song:  All You Had To Do Was Stay 	 Line:  stay Similarity:  1.0
+
+
+Song:  Invisible 	 Line:  but you be everything to I
+Song:  Love Story 	 Line:  but you be everything to I Similarity:  1.0
+
+
+Song:  Invisible 	 Line:  let I want you
+Song:  Pink Clouding 	 Line:  let you want I Similarity:  1.0
+
+
+Song:  cowboy like me 	 Line:  now I know
+Song:  White Horse 	 Line:  now I know Similarity:  1.0
+
+
+Song:  Fearless 	 Line:  yeah
+Song:  Out Of The Woods 	 Line:  yeah Similarity:  1.0
+Song:  Better Man 	 Line:  yeah yeah Similarity:  1.0
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  yeah yeah Similarity:  1.0
+Song:  Tell Me 	 Line:  yeah yeah Similarity:  1.0
+Song:  Cruel Summer 	 Line:  yeah yeah yeah yeah Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  yeah yeah Similarity:  1.0
+Song:  22 	 Line:  yeah Similarity:  1.0
+Song:  Mine 	 Line:  yeah yeah Similarity:  1.0
+Song:  Red 	 Line:  yeah yeah Similarity:  1.0
+Song:  long story short 	 Line:  yeah yeah Similarity:  1.0
+
+
+Song:  Fearless 	 Line:  oh yeah
+Song:  Baby, Don't You Break My Heart Slow 	 Line:  oh yeah yeah Similarity:  0.949
+Song:  Nevermind 	 Line:  yeah oh yeah Similarity:  0.949
+Song:  The Outside 	 Line:  oh yeah Similarity:  1.0
+Song:  Til Brad Pitt Comes Along 	 Line:  yeah oh oh Similarity:  0.949
+Song:  22 	 Line:  oh yeah Similarity:  1.0
+Song:  Look At You Like That 	 Line:  oh yeah Similarity:  1.0
+Song:  Live For The Little Things 	 Line:  oh yeah Similarity:  1.0
+Song:  Permanent Marker 	 Line:  oh yeah Similarity:  1.0
+Song:  Matches 	 Line:  oh yeah Similarity:  1.0
+Song:  Our Song 	 Line:  oh yeah Similarity:  1.0
+
+
+Song:  Fearless 	 Line:  oh oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  It's Nice To Have A Friend 	 Line:  Ooh
+Song:  Lavender Haze 	 Line:  Ooh ooh ooh whoa Similarity:  0.949
+Song:  invisible string 	 Line:  ooh ooh ooh ooh Similarity:  1.0
+Song:  Dancing With Our Hands Tied 	 Line:  Ooh ooh ooh ooh Similarity:  1.0
+Song:  22 	 Line:  ooh ooh Similarity:  1.0
+Song:  The Prophecy 	 Line:  Ooh Similarity:  1.0
+Song:  Safe & Sound 	 Line:  Ooh ooh ooh ooh Similarity:  1.0
+Song:  The Moment I Knew 	 Line:  Ooh Similarity:  1.0
+Song:  Sweet Nothing 	 Line:  Ooh Similarity:  1.0
+Song:  ME! 	 Line:  ooh ooh ooh ooh Similarity:  1.0
+Song:  dorothea 	 Line:  ooh woo ooh ooh ooh ooh ooh ooh ooh Similarity:  0.992
+
+
+Song:  Christmas Tree Farm 	 Line:  I love you
+Song:  Nevermind 	 Line:  I love you Similarity:  1.0
+
+
+Song:  Christmas Tree Farm 	 Line:  I just want you to know
+Song:  this is me trying 	 Line:  I just want you to know Similarity:  1.0
+
+
+Song:  This Is Really Happening 	 Line:  tell I
+Song:  Tell Me 	 Line:  tell I Similarity:  1.0
+
+
+Song:  This Is Really Happening 	 Line:  Baby
+Song:  Revenge 	 Line:  baby baby r E v E n G e Similarity:  1.0
+
+
+Song:  This Is Really Happening 	 Line:  oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  Cruel Summer 	 Line:  yeah yeah yeah yeah
+Song:  Out Of The Woods 	 Line:  yeah Similarity:  1.0
+Song:  Better Man 	 Line:  yeah yeah Similarity:  1.0
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  yeah yeah Similarity:  1.0
+Song:  Tell Me 	 Line:  yeah yeah Similarity:  1.0
+Song:  Fearless 	 Line:  yeah Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  yeah yeah Similarity:  1.0
+Song:  22 	 Line:  yeah Similarity:  1.0
+Song:  Mine 	 Line:  yeah yeah Similarity:  1.0
+Song:  Red 	 Line:  yeah yeah Similarity:  1.0
+Song:  long story short 	 Line:  yeah yeah Similarity:  1.0
+
+
+Song:  Cruel Summer 	 Line:  with you
+Song:  I'm Only Me When I'm With You 	 Line:  with you Similarity:  1.0
+
+
+Song:  Made Up You 	 Line:  oh oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  closure 	 Line:  it be be a long time
+Song:  I Knew It, I Knew You 	 Line:  it be be a long time Similarity:  1.0
+
+
+Song:  I Know Places 	 Line:  my love
+Song:  Message In A Bottle (Taylor's Version) (From The Vault) 	 Line:  my love Similarity:  1.0
+
+
+Song:  Elizabeth Taylor 	 Line:  oh oh oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  How You Get The Girl 	 Line:  oh oh oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  How You Get The Girl 	 Line:  yeah yeah
+Song:  Out Of The Woods 	 Line:  yeah Similarity:  1.0
+Song:  Better Man 	 Line:  yeah yeah Similarity:  1.0
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  yeah yeah Similarity:  1.0
+Song:  Tell Me 	 Line:  yeah yeah Similarity:  1.0
+Song:  Fearless 	 Line:  yeah Similarity:  1.0
+Song:  Cruel Summer 	 Line:  yeah yeah yeah yeah Similarity:  1.0
+Song:  22 	 Line:  yeah Similarity:  1.0
+Song:  Mine 	 Line:  yeah yeah Similarity:  1.0
+Song:  Red 	 Line:  yeah yeah Similarity:  1.0
+Song:  long story short 	 Line:  yeah yeah Similarity:  1.0
+
+
+Song:  Better Than Revenge 	 Line:  no no no no
+Song:  Should've Said No 	 Line:  no no no no Similarity:  1.0
+Song:  You're Not Sorry 	 Line:  no no no no Similarity:  1.0
+Song:  no body, no crime 	 Line:  no no body no crime Similarity:  0.905
+Song:  august 	 Line:  no Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  no Similarity:  1.0
+
+
+Song:  Better Than Revenge 	 Line:  come on come on
+Song:  Untouchable 	 Line:  come on come on Similarity:  1.0
+
+
+Song:  Speak Now 	 Line:  oh oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  uh uh uh uh
+Song:  Girl At Home 	 Line:  uh uh Similarity:  1.0
+
+
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh baby
+Song:  This Is Really Happening 	 Line:  oh oh baby Similarity:  0.949
+Song:  Sweet Escape 	 Line:  oh baby Similarity:  1.0
+
+
+Song:  22 	 Line:  yeah
+Song:  Out Of The Woods 	 Line:  yeah Similarity:  1.0
+Song:  Better Man 	 Line:  yeah yeah Similarity:  1.0
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  yeah yeah Similarity:  1.0
+Song:  Tell Me 	 Line:  yeah yeah Similarity:  1.0
+Song:  Fearless 	 Line:  yeah Similarity:  1.0
+Song:  Cruel Summer 	 Line:  yeah yeah yeah yeah Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  yeah yeah Similarity:  1.0
+Song:  Mine 	 Line:  yeah yeah Similarity:  1.0
+Song:  Red 	 Line:  yeah yeah Similarity:  1.0
+Song:  long story short 	 Line:  yeah yeah Similarity:  1.0
+
+
+Song:  22 	 Line:  oh yeah
+Song:  Baby, Don't You Break My Heart Slow 	 Line:  oh yeah yeah Similarity:  0.949
+Song:  Nevermind 	 Line:  yeah oh yeah Similarity:  0.949
+Song:  The Outside 	 Line:  oh yeah Similarity:  1.0
+Song:  Fearless 	 Line:  oh yeah Similarity:  1.0
+Song:  Til Brad Pitt Comes Along 	 Line:  yeah oh oh Similarity:  0.949
+Song:  Look At You Like That 	 Line:  oh yeah Similarity:  1.0
+Song:  Live For The Little Things 	 Line:  oh yeah Similarity:  1.0
+Song:  Permanent Marker 	 Line:  oh yeah Similarity:  1.0
+Song:  Matches 	 Line:  oh yeah Similarity:  1.0
+Song:  Our Song 	 Line:  oh yeah Similarity:  1.0
+
+
+Song:  22 	 Line:  uh oh
+Song:  Fall Back On You 	 Line:  uh oh uh oh Similarity:  1.0
+
+
+Song:  22 	 Line:  ooh ooh
+Song:  Lavender Haze 	 Line:  Ooh ooh ooh whoa Similarity:  0.949
+Song:  invisible string 	 Line:  ooh ooh ooh ooh Similarity:  1.0
+Song:  Dancing With Our Hands Tied 	 Line:  Ooh ooh ooh ooh Similarity:  1.0
+Song:  It's Nice To Have A Friend 	 Line:  Ooh Similarity:  1.0
+Song:  The Prophecy 	 Line:  Ooh Similarity:  1.0
+Song:  Safe & Sound 	 Line:  Ooh ooh ooh ooh Similarity:  1.0
+Song:  The Moment I Knew 	 Line:  Ooh Similarity:  1.0
+Song:  Sweet Nothing 	 Line:  Ooh Similarity:  1.0
+Song:  ME! 	 Line:  ooh ooh ooh ooh Similarity:  1.0
+Song:  dorothea 	 Line:  ooh woo ooh ooh ooh ooh ooh ooh ooh Similarity:  0.992
+
+
+Song:  Shake It Off 	 Line:  in my mind
+Song:  Paris 	 Line:  in my mind Similarity:  1.0
+
+
+Song:  Shake It Off 	 Line:  hey hey hey
+Song:  Bad Blood 	 Line:  hey Similarity:  1.0
+Song:  All You Had To Do Was Stay 	 Line:  hey hey hey Similarity:  1.0
+
+
+Song:  thanK you aIMee 	 Line:  'cause
+Song:  no body, no crime 	 Line:  'cause Similarity:  1.0
+Song:  Call It What You Want 	 Line:  'cause Similarity:  1.0
+
+
+Song:  Actually Romantic 	 Line:  it be so romantic
+Song:  New Romantics 	 Line:  it be so romantic it be so romantic Similarity:  1.0
+
+
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you
+Song:  The Tortured Poets Department 	 Line:  no fucking body who be go to hold you who be go to hold you Similarity:  0.943
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  Need You Now 	 Line:  who be go to hold you Similarity:  1.0
+
+
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you
+Song:  The Tortured Poets Department 	 Line:  no fucking body who be go to hold you who be go to hold you Similarity:  0.943
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  Need You Now 	 Line:  who be go to hold you Similarity:  1.0
+
+
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you who be go to hold you
+Song:  The Tortured Poets Department 	 Line:  no fucking body who be go to hold you who be go to hold you Similarity:  0.943
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  Need You Now 	 Line:  who be go to hold you Similarity:  1.0
+
+
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you who be go to hold you
+Song:  The Tortured Poets Department 	 Line:  no fucking body who be go to hold you who be go to hold you Similarity:  0.943
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  Need You Now 	 Line:  who be go to hold you Similarity:  1.0
+
+
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you
+Song:  The Tortured Poets Department 	 Line:  no fucking body who be go to hold you who be go to hold you Similarity:  0.943
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  Need You Now 	 Line:  who be go to hold you Similarity:  1.0
+
+
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you
+Song:  The Tortured Poets Department 	 Line:  no fucking body who be go to hold you who be go to hold you Similarity:  0.943
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  Need You Now 	 Line:  who be go to hold you Similarity:  1.0
+
+
+Song:  State Of Grace 	 Line:  now all we know
+Song:  You Need To Calm Down 	 Line:  we all know now Similarity:  1.0
+
+
+Song:  Her 	 Line:  uh huh
+Song:  The Great War 	 Line:  uh huh uh huh Similarity:  1.0
+Song:  Paper Rings 	 Line:  uh huh Similarity:  1.0
+
+
+Song:  Closest To A Cowboy 	 Line:  you will see I
+Song:  Drama Queen 	 Line:  you will see Similarity:  1.0
+
+
+Song:  This Love 	 Line:  oh oh oh oh oh oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  One Thing 	 Line:  it be not just like a movie
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  it be not just like a movie Similarity:  1.0
+
+
+Song:  One Thing 	 Line:  the rain do not soak through my clothe down to my skin
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  the rain do not soak through my clothe down to my skin Similarity:  1.0
+
+
+Song:  One Thing 	 Line:  I be drive away and I I guess you could say
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  I be drive away and I I guess you could say Similarity:  1.0
+
+
+Song:  One Thing 	 Line:  this be the last time I will drive this way again
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  this be the last time I will drive this way again Similarity:  1.0
+
+
+Song:  One Thing 	 Line:  'cause I I still love you but I can not
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  'cause I I still love you but I can not Similarity:  1.0
+
+
+Song:  One Thing 	 Line:  Bye bye to everything I think be on my side
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  Bye bye to everything I think be on my side Similarity:  1.0
+
+
+Song:  One Thing 	 Line:  Bye bye baby
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  Bye bye baby Similarity:  1.0
+
+
+Song:  One Thing 	 Line:  I want you back but it be come down to nothing
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  I want you back but it be come down to nothing Similarity:  1.0
+
+
+Song:  One Thing 	 Line:  the picture frame be empty
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  the picture frame be empty Similarity:  1.0
+
+
+Song:  One Thing 	 Line:  and there be so much that I can not touch
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  and there be so much that I can not touch Similarity:  1.0
+
+
+Song:  One Thing 	 Line:  you be all I want but it be not enough this time
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  you be all I want but it be not enough this time Similarity:  1.0
+
+
+Song:  One Thing 	 Line:  and I be so scared of how this end
+Song:  Bye Bye Baby (Taylor's Version) (From The Vault) 	 Line:  and I be so scared of how this end Similarity:  1.0
+
+
+Song:  Sweet Escape 	 Line:  oh baby
+Song:  This Is Really Happening 	 Line:  oh oh baby Similarity:  0.949
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh baby Similarity:  1.0
+
+
+Song:  Style 	 Line:  so it go
+Song:  So It Goes... 	 Line:  so it go Similarity:  1.0
+
+
+Song:  Dear John 	 Line:  again
+Song:  Breathless 	 Line:  again again Similarity:  1.0
+
+
+Song:  All Night Diner 	 Line:  there you be
+Song:  Look At You Like That 	 Line:  there you be Similarity:  1.0
+Song:  evermore 	 Line:  you be there Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  once upon a time a few mistake ago
+Song:  I Knew You Were Trouble 	 Line:  once upon a time a few mistake ago Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  I be in your sight you get I alone
+Song:  I Knew You Were Trouble 	 Line:  I be in your sight you get I alone Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  you find I you find I you find I
+Song:  I Knew You Were Trouble 	 Line:  you find I you find I you find I Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  I guess you do not care and I guess I like that
+Song:  I Knew You Were Trouble 	 Line:  I guess you do not care and I guess I like that Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  and when I fall hard you take a step back
+Song:  I Knew You Were Trouble 	 Line:  and when I fall hard you take a step back Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  without I without I without I
+Song:  I Knew You Were Trouble 	 Line:  without I without I without I Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  and he be long go when he be next to I
+Song:  I Knew You Were Trouble 	 Line:  and he be long go when he be next to I Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  and I realize the blame be on I
+Song:  I Knew You Were Trouble 	 Line:  and I realize the blame be on I Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  'cause I know you be trouble when you walk in
+Song:  I Knew You Were Trouble 	 Line:  'cause I know you be trouble when you walk in Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  so shame on I now
+Song:  I Knew You Were Trouble 	 Line:  so shame on I now Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  fly I to place I would never be
+Song:  I Knew You Were Trouble 	 Line:  fly I to place I would never be Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  Til you put I down oh
+Song:  I Knew You Were Trouble 	 Line:  Til you put I down oh Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  now I be lie on the cold hard ground
+Song:  I Knew You Were Trouble 	 Line:  now I be lie on the cold hard ground Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  oh oh trouble trouble trouble
+Song:  I Knew You Were Trouble 	 Line:  oh oh trouble trouble trouble Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  no apology he will never see you cry
+Song:  I Knew You Were Trouble 	 Line:  no apology he will never see you cry Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  pretend he do not know that he be the reason why
+Song:  I Knew You Were Trouble 	 Line:  pretend he do not know that he be the reason why Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  you be drown you be drown you be drown
+Song:  I Knew You Were Trouble 	 Line:  you be drown you be drown you be drown Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  now I hear you move on from whisper on the street
+Song:  I Knew You Were Trouble 	 Line:  now I hear you move on from whisper on the street Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  a new notch in your belt be all I will ever be
+Song:  I Knew You Were Trouble 	 Line:  a new notch in your belt be all I will ever be Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  and now I see now I see now I see
+Song:  I Knew You Were Trouble 	 Line:  and now I see now I see now I see Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  he be long go when he meet I
+Song:  I Knew You Were Trouble 	 Line:  he be long go when he meet I Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  and I realize the joke be on I hey
+Song:  I Knew You Were Trouble 	 Line:  and I realize the joke be on I hey Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  and the sad fear come creep in
+Song:  I Knew You Were Trouble 	 Line:  and the sad fear come creep in Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  that you never love I or she or anyone or anything yeah
+Song:  I Knew You Were Trouble 	 Line:  that you never love I or she or anyone or anything yeah Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  I know you be trouble when you walk in know it right there
+Song:  I Knew You Were Trouble 	 Line:  I know you be trouble when you walk in know it right there Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  so shame on I now know it right there
+Song:  I Knew You Were Trouble 	 Line:  so shame on I now know it right there Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  trouble trouble trouble
+Song:  I Knew You Were Trouble 	 Line:  trouble trouble trouble Similarity:  1.0
+
+
+Song:  All You Had To Do Was Stay 	 Line:  hey hey hey
+Song:  Bad Blood 	 Line:  hey Similarity:  1.0
+Song:  Shake It Off 	 Line:  hey hey hey Similarity:  1.0
+
+
+Song:  All You Had To Do Was Stay 	 Line:  stay
+Song:  Stay Stay Stay 	 Line:  stay stay stay Similarity:  1.0
+
+
+Song:  All You Had To Do Was Stay 	 Line:  you be all I want
+Song:  Haunted 	 Line:  you be all I want Similarity:  1.0
+
+
+Song:  So It Goes... 	 Line:  so it go
+Song:  Style 	 Line:  so it go Similarity:  1.0
+
+
+Song:  Fall Back On You 	 Line:  uh oh uh oh
+Song:  22 	 Line:  uh oh Similarity:  1.0
+
+
+Song:  Look At You Like That 	 Line:  there you be
+Song:  All Night Diner 	 Line:  there you be Similarity:  1.0
+Song:  evermore 	 Line:  you be there Similarity:  1.0
+
+
+Song:  Look At You Like That 	 Line:  what a waste
+Song:  Babe (Taylor's Version) (From The Vault) 	 Line:  what a waste Similarity:  1.0
+
+
+Song:  Look At You Like That 	 Line:  oh yeah
+Song:  Baby, Don't You Break My Heart Slow 	 Line:  oh yeah yeah Similarity:  0.949
+Song:  Nevermind 	 Line:  yeah oh yeah Similarity:  0.949
+Song:  The Outside 	 Line:  oh yeah Similarity:  1.0
+Song:  Fearless 	 Line:  oh yeah Similarity:  1.0
+Song:  Til Brad Pitt Comes Along 	 Line:  yeah oh oh Similarity:  0.949
+Song:  22 	 Line:  oh yeah Similarity:  1.0
+Song:  Live For The Little Things 	 Line:  oh yeah Similarity:  1.0
+Song:  Permanent Marker 	 Line:  oh yeah Similarity:  1.0
+Song:  Matches 	 Line:  oh yeah Similarity:  1.0
+Song:  Our Song 	 Line:  oh yeah Similarity:  1.0
+
+
+Song:  Look At You Like That 	 Line:  look at you look at you look at you
+Song:  Nevermind 	 Line:  look at you Similarity:  1.0
+Song:  Making Up For Lost Love 	 Line:  just look at you look at I Similarity:  0.913
+
+
+Song:  All Too Well 	 Line:  I walk through the door with you the air be cold
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  I walk through the door with you the air be cold Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  but something 'bout it feel like home somehow
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  but something 'bout it feel like home somehow Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  and I leave my scarf there at your sister 's house
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  and I leave my scarf there at your sister 's house Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  and you have still get it in your drawer even now
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  and you have still get it in your drawer even now Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  oh your sweet disposition and my wide eyed gaze
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh your sweet disposition and my wide eyed gaze Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  we be sing in the car getting lose Upstate
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  we be sing in the car getting lose upstate Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  Autumn leave fall down like piece into place
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  Autumn leave fall down like piece into place Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  and I can picture it after all these day
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  and I can picture it after all these day Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  'cause there we be again on that little town street
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  'cause there we be again on that little town street Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  photo album on the counter your cheek be turn red
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  photo album on the counter your cheek be turn red Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  you use to be a little kid with glass in a twin sized bed
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  you use to be a little kid with glass in a twin sized bed Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  and I forget about you long enough
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  and I forget about you long enough Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  to forget why I need to
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  to forget why I need to Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  'cause there we be again in the middle of the night
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  'cause there we be again in the middle of the night Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  we be dance round the kitchen in the refrigerator light
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  we be dance round the kitchen in the refrigerator light Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  and you call I up again just to break I like a promise
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  and you call I up again just to break I like a promise Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  so casually cruel in the name of be honest
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  so casually cruel in the name of be honest Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  I be a crumpled up piece of paper lie here
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  I be a crumpled up piece of paper lie here Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  time will not fly it be like I be paralyze by it
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  time will not fly it be like I be paralyze by it Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  I would like to be my old self again but I be still try to find it
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  I would like to be my old self again but I be still try to find it Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  after plaid shirt day and night when you make I your own
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  after plaid shirt day and night when you make I your own Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  now you mail back my thing and I walk home alone
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  now you mail back my thing and I walk home alone Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  but you keep my old scarf from that very first week
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  but you keep my old scarf from that very first week Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  'cause it remind you of innocence and it smell like I
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  'cause it remind you of innocence and it smell like I Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  'cause there we be again when I love you so
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  'cause there we be again when I love you so Similarity:  1.0
+
+
+Song:  All Too Well 	 Line:  back before you lose the one real thing you have ever know
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  back before you lose the one real thing you have ever know Similarity:  1.0
+
+
+Song:  Breathless 	 Line:  again again
+Song:  Dear John 	 Line:  again Similarity:  1.0
+
+
+Song:  it's time to go 	 Line:  when it be time to go
+Song:  it's time to go 	 Line:  when it be time to go Similarity:  1.0
+
+
+Song:  it's time to go 	 Line:  you know you know you know you know
+Song:  I Knew It, I Knew You 	 Line:  I know you Similarity:  1.0
+Song:  cardigan 	 Line:  I know you Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  I just wanna know you know you know you Similarity:  0.949
+
+
+Song:  it's time to go 	 Line:  when it be time to go
+Song:  it's time to go 	 Line:  when it be time to go Similarity:  1.0
+
+
+Song:  ...Ready For It? 	 Line:  in the middle of the night
+Song:  You Belong With Me 	 Line:  in the middle of the night Similarity:  1.0
+Song:  Untouchable 	 Line:  in the middle of the night Similarity:  1.0
+
+
+Song:  Mine 	 Line:  hold on
+Song:  White Horse 	 Line:  hold on Similarity:  1.0
+Song:  Thug Story 	 Line:  hey hold on hold on Similarity:  0.943
+
+
+Song:  Mine 	 Line:  yeah yeah
+Song:  Out Of The Woods 	 Line:  yeah Similarity:  1.0
+Song:  Better Man 	 Line:  yeah yeah Similarity:  1.0
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  yeah yeah Similarity:  1.0
+Song:  Tell Me 	 Line:  yeah yeah Similarity:  1.0
+Song:  Fearless 	 Line:  yeah Similarity:  1.0
+Song:  Cruel Summer 	 Line:  yeah yeah yeah yeah Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  yeah yeah Similarity:  1.0
+Song:  22 	 Line:  yeah Similarity:  1.0
+Song:  Red 	 Line:  yeah yeah Similarity:  1.0
+Song:  long story short 	 Line:  yeah yeah Similarity:  1.0
+
+
+Song:  What Do You Say 	 Line:  what do you say
+Song:  The Moment I Knew 	 Line:  what do you say Similarity:  1.0
+
+
+Song:  I Knew It, I Knew You 	 Line:  I know you
+Song:  it's time to go 	 Line:  you know you know you know you know Similarity:  1.0
+Song:  cardigan 	 Line:  I know you Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  I just wanna know you know you know you Similarity:  0.949
+
+
+Song:  I Knew It, I Knew You 	 Line:  it be be a long time
+Song:  closure 	 Line:  it be be a long time Similarity:  1.0
+
+
+Song:  I Knew It, I Knew You 	 Line:  oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  Haunted 	 Line:  you be all I want
+Song:  All You Had To Do Was Stay 	 Line:  you be all I want Similarity:  1.0
+
+
+Song:  Haunted 	 Line:  oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  The Prophecy 	 Line:  Ooh
+Song:  Lavender Haze 	 Line:  Ooh ooh ooh whoa Similarity:  0.949
+Song:  invisible string 	 Line:  ooh ooh ooh ooh Similarity:  1.0
+Song:  Dancing With Our Hands Tied 	 Line:  Ooh ooh ooh ooh Similarity:  1.0
+Song:  It's Nice To Have A Friend 	 Line:  Ooh Similarity:  1.0
+Song:  22 	 Line:  ooh ooh Similarity:  1.0
+Song:  Safe & Sound 	 Line:  Ooh ooh ooh ooh Similarity:  1.0
+Song:  The Moment I Knew 	 Line:  Ooh Similarity:  1.0
+Song:  Sweet Nothing 	 Line:  Ooh Similarity:  1.0
+Song:  ME! 	 Line:  ooh ooh ooh ooh Similarity:  1.0
+Song:  dorothea 	 Line:  ooh woo ooh ooh ooh ooh ooh ooh ooh Similarity:  0.992
+
+
+Song:  Eldest Daughter 	 Line:  that be a lie
+Song:  Can't Stop Loving You 	 Line:  that I be lie Similarity:  1.0
+
+
+Song:  I Don't Wanna Live Forever 	 Line:  Taylor Swift
+Song:  End Game 	 Line:  Taylor Swift Similarity:  1.0
+Song:  coney island 	 Line:  Taylor Swift Similarity:  1.0
+Song:  no body, no crime 	 Line:  Taylor Swift Similarity:  1.0
+Song:  exile 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  You All Over Me (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  The Last Time 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Thug Story 	 Line:  Taylor Swift Similarity:  1.0
+Song:  ME! 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Breathe 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  Taylor Swift Similarity:  1.0
+Song:  evermore 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When 	 Line:  Taylor Swift Similarity:  1.0
+
+
+Song:  right where you left me 	 Line:  you leave I
+Song:  right where you left me 	 Line:  you leave I Similarity:  1.0
+
+
+Song:  right where you left me 	 Line:  you leave I
+Song:  right where you left me 	 Line:  you leave I Similarity:  1.0
+
+
+Song:  Silent Night 	 Line:  Hallelujah
+Song:  Change 	 Line:  Hallelujah Similarity:  1.0
+
+
+Song:  You Belong With Me 	 Line:  in the middle of the night
+Song:  ...Ready For It? 	 Line:  in the middle of the night Similarity:  1.0
+Song:  Untouchable 	 Line:  in the middle of the night Similarity:  1.0
+
+
+Song:  Let's Go (Battle) 	 Line:  oh oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  exile 	 Line:  Justin Vernon
+Song:  evermore 	 Line:  Justin Vernon Similarity:  1.0
+
+
+Song:  exile 	 Line:  Taylor Swift
+Song:  End Game 	 Line:  Taylor Swift Similarity:  1.0
+Song:  coney island 	 Line:  Taylor Swift Similarity:  1.0
+Song:  no body, no crime 	 Line:  Taylor Swift Similarity:  1.0
+Song:  I Don't Wanna Live Forever 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  You All Over Me (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  The Last Time 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Thug Story 	 Line:  Taylor Swift Similarity:  1.0
+Song:  ME! 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Breathe 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  Taylor Swift Similarity:  1.0
+Song:  evermore 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When 	 Line:  Taylor Swift Similarity:  1.0
+
+
+Song:  exile 	 Line:  ah ah
+Song:  invisible string 	 Line:  ah ah ah Similarity:  1.0
+Song:  Don't You (Taylor's Version) (From The Vault) 	 Line:  ah ah ah ah Similarity:  1.0
+Song:  New Romantics 	 Line:  ah ah ah ah ah ah Similarity:  1.0
+Song:  Paper Rings 	 Line:  ah Similarity:  1.0
+
+
+Song:  Live For The Little Things 	 Line:  na na na
+Song:  Stay Beautiful 	 Line:  na na na na na Similarity:  1.0
+Song:  Under My Head 	 Line:  na na na na na na na na na Similarity:  1.0
+
+
+Song:  Live For The Little Things 	 Line:  oh yeah
+Song:  Baby, Don't You Break My Heart Slow 	 Line:  oh yeah yeah Similarity:  0.949
+Song:  Nevermind 	 Line:  yeah oh yeah Similarity:  0.949
+Song:  The Outside 	 Line:  oh yeah Similarity:  1.0
+Song:  Fearless 	 Line:  oh yeah Similarity:  1.0
+Song:  Til Brad Pitt Comes Along 	 Line:  yeah oh oh Similarity:  0.949
+Song:  22 	 Line:  oh yeah Similarity:  1.0
+Song:  Look At You Like That 	 Line:  oh yeah Similarity:  1.0
+Song:  Permanent Marker 	 Line:  oh yeah Similarity:  1.0
+Song:  Matches 	 Line:  oh yeah Similarity:  1.0
+Song:  Our Song 	 Line:  oh yeah Similarity:  1.0
+
+
+Song:  I Forgot That You Existed 	 Line:  I do I do I do
+Song:  Same Girl 	 Line:  do do do do do Similarity:  1.0
+
+
+Song:  Red 	 Line:  yeah yeah
+Song:  Out Of The Woods 	 Line:  yeah Similarity:  1.0
+Song:  Better Man 	 Line:  yeah yeah Similarity:  1.0
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  yeah yeah Similarity:  1.0
+Song:  Tell Me 	 Line:  yeah yeah Similarity:  1.0
+Song:  Fearless 	 Line:  yeah Similarity:  1.0
+Song:  Cruel Summer 	 Line:  yeah yeah yeah yeah Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  yeah yeah Similarity:  1.0
+Song:  22 	 Line:  yeah Similarity:  1.0
+Song:  Mine 	 Line:  yeah yeah Similarity:  1.0
+Song:  long story short 	 Line:  yeah yeah Similarity:  1.0
+
+
+Song:  long story short 	 Line:  yeah yeah
+Song:  Out Of The Woods 	 Line:  yeah Similarity:  1.0
+Song:  Better Man 	 Line:  yeah yeah Similarity:  1.0
+Song:  Better Man (Taylor's Version) (From The Vault) 	 Line:  yeah yeah Similarity:  1.0
+Song:  Tell Me 	 Line:  yeah yeah Similarity:  1.0
+Song:  Fearless 	 Line:  yeah Similarity:  1.0
+Song:  Cruel Summer 	 Line:  yeah yeah yeah yeah Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  yeah yeah Similarity:  1.0
+Song:  22 	 Line:  yeah Similarity:  1.0
+Song:  Mine 	 Line:  yeah yeah Similarity:  1.0
+Song:  Red 	 Line:  yeah yeah Similarity:  1.0
+
+
+Song:  Need You Now 	 Line:  who be go to hold you
+Song:  The Tortured Poets Department 	 Line:  no fucking body who be go to hold you who be go to hold you Similarity:  0.943
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+Song:  The Tortured Poets Department 	 Line:  who be go to hold you Similarity:  1.0
+
+
+Song:  Need You Now 	 Line:  I do not need you now
+Song:  Need You Now 	 Line:  I do not need you now Similarity:  1.0
+Song:  Need You Now 	 Line:  do not need you now Similarity:  1.0
+
+
+Song:  Need You Now 	 Line:  I do not need you now
+Song:  Need You Now 	 Line:  I do not need you now Similarity:  1.0
+Song:  Need You Now 	 Line:  do not need you now Similarity:  1.0
+
+
+Song:  Need You Now 	 Line:  do not need you now
+Song:  Need You Now 	 Line:  I do not need you now Similarity:  1.0
+Song:  Need You Now 	 Line:  I do not need you now Similarity:  1.0
+
+
+Song:  Safe & Sound 	 Line:  Ooh ooh ooh ooh
+Song:  Lavender Haze 	 Line:  Ooh ooh ooh whoa Similarity:  0.949
+Song:  invisible string 	 Line:  ooh ooh ooh ooh Similarity:  1.0
+Song:  Dancing With Our Hands Tied 	 Line:  Ooh ooh ooh ooh Similarity:  1.0
+Song:  It's Nice To Have A Friend 	 Line:  Ooh Similarity:  1.0
+Song:  22 	 Line:  ooh ooh Similarity:  1.0
+Song:  The Prophecy 	 Line:  Ooh Similarity:  1.0
+Song:  The Moment I Knew 	 Line:  Ooh Similarity:  1.0
+Song:  Sweet Nothing 	 Line:  Ooh Similarity:  1.0
+Song:  ME! 	 Line:  ooh ooh ooh ooh Similarity:  1.0
+Song:  dorothea 	 Line:  ooh woo ooh ooh ooh ooh ooh ooh ooh Similarity:  0.992
+
+
+Song:  Safe & Sound 	 Line:  La la la la
+Song:  Stay Beautiful 	 Line:  La la la Similarity:  1.0
+Song:  Monologue Song (La La La) 	 Line:  La la la la la la Similarity:  1.0
+Song:  Fifteen 	 Line:  La la la la la la la Similarity:  1.0
+Song:  Foolish One (Taylor's Version) (From The Vault) 	 Line:  La la la la la la la la la oh Similarity:  0.994
+
+
+Song:  Brought Up That Way 	 Line:  and say
+Song:  Girl At Home 	 Line:  and I say Similarity:  1.0
+Song:  Stay Stay Stay 	 Line:  and I say Similarity:  1.0
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and I say Similarity:  1.0
+Song:  Love Story 	 Line:  and I say Similarity:  1.0
+Song:  Honey Baby 	 Line:  and I say Similarity:  1.0
+Song:  That's When 	 Line:  and I say Similarity:  1.0
+
+
+Song:  Brought Up That Way 	 Line:  and he say
+Song:  Our Song 	 Line:  and he say Similarity:  1.0
+
+
+Song:  Blank Space 	 Line:  Ayy
+Song:  Paper Rings 	 Line:  Ayy Similarity:  1.0
+
+
+Song:  Stay Beautiful 	 Line:  La la la
+Song:  Safe & Sound 	 Line:  La la la la Similarity:  1.0
+Song:  Monologue Song (La La La) 	 Line:  La la la la la la Similarity:  1.0
+Song:  Fifteen 	 Line:  La la la la la la la Similarity:  1.0
+Song:  Foolish One (Taylor's Version) (From The Vault) 	 Line:  La la la la la la la la la oh Similarity:  0.994
+
+
+Song:  Stay Beautiful 	 Line:  oh oh oh oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  Stay Beautiful 	 Line:  na na na na na
+Song:  Live For The Little Things 	 Line:  na na na Similarity:  1.0
+Song:  Under My Head 	 Line:  na na na na na na na na na Similarity:  1.0
+
+
+Song:  august 	 Line:  no
+Song:  Should've Said No 	 Line:  no no no no Similarity:  1.0
+Song:  You're Not Sorry 	 Line:  no no no no Similarity:  1.0
+Song:  no body, no crime 	 Line:  no no body no crime Similarity:  0.905
+Song:  Better Than Revenge 	 Line:  no no no no Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  no Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift
+Song:  End Game 	 Line:  Taylor Swift Similarity:  1.0
+Song:  coney island 	 Line:  Taylor Swift Similarity:  1.0
+Song:  no body, no crime 	 Line:  Taylor Swift Similarity:  1.0
+Song:  I Don't Wanna Live Forever 	 Line:  Taylor Swift Similarity:  1.0
+Song:  exile 	 Line:  Taylor Swift Similarity:  1.0
+Song:  You All Over Me (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  The Last Time 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Thug Story 	 Line:  Taylor Swift Similarity:  1.0
+Song:  ME! 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Breathe 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  Taylor Swift Similarity:  1.0
+Song:  evermore 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When 	 Line:  Taylor Swift Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  you say I know
+Song:  That's When 	 Line:  you say I know Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  when I say I need some time need some space
+Song:  That's When 	 Line:  when I say I need some time need some space Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  to think about all of this
+Song:  That's When 	 Line:  to think about all of this Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  you watch I go
+Song:  That's When 	 Line:  you watch I go Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and I know my
+Song:  That's When 	 Line:  and I know my Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  word be hard to hear
+Song:  That's When 	 Line:  word be hard to hear Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and hard to ever take back
+Song:  That's When 	 Line:  and hard to ever take back Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and I say when can i I I come back
+Song:  That's When 	 Line:  and I say when can i I I come back Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift and Keith Urban
+Song:  That's When 	 Line:  Taylor Swift and Keith Urban Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and you say that be when
+Song:  That's When 	 Line:  and you say that be when Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  when I wake up in the morning
+Song:  That's When 	 Line:  when I wake up in the morning Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  that be when when it be sunny or storm
+Song:  That's When 	 Line:  that be when when it be sunny or storm Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  laugh when I be cry
+Song:  That's When 	 Line:  laugh when I be cry Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and that be when I will be wait at the front gate
+Song:  That's When 	 Line:  and that be when I will be wait at the front gate Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  that be when when I see your face
+Song:  That's When 	 Line:  that be when when I see your face Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  I will let you in and baby that be when
+Song:  That's When 	 Line:  I will let you in and baby that be when Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  Mm mm
+Song:  Hey Stephen 	 Line:  Mmm mm mm mm Similarity:  0.949
+Song:  That's When 	 Line:  Mm mm Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  I say I know
+Song:  That's When 	 Line:  I say I know Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  when you say I do you wrong
+Song:  That's When 	 Line:  when you say I do you wrong Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  make mistake
+Song:  That's When 	 Line:  make mistake Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and put you through all of this through all of this
+Song:  That's When 	 Line:  and put you through all of this through all of this Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  then through the phone
+Song:  That's When 	 Line:  then through the phone Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  come all your tear
+Song:  That's When 	 Line:  come all your tear Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and I say leave those all in our past
+Song:  That's When 	 Line:  and I say leave those all in our past Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and you say honestly
+Song:  That's When 	 Line:  and you say honestly Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  when you be go
+Song:  That's When 	 Line:  when you be go Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  do you ever think of I
+Song:  That's When 	 Line:  do you ever think of I Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and I say
+Song:  Girl At Home 	 Line:  and I say Similarity:  1.0
+Song:  Stay Stay Stay 	 Line:  and I say Similarity:  1.0
+Song:  Brought Up That Way 	 Line:  and say Similarity:  1.0
+Song:  Love Story 	 Line:  and I say Similarity:  1.0
+Song:  Honey Baby 	 Line:  and I say Similarity:  1.0
+Song:  That's When 	 Line:  and I say Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift with Keith Urban
+Song:  That's When 	 Line:  Taylor Swift with Keith Urban Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  that be when when I wake up in the morning
+Song:  That's When 	 Line:  that be when when I wake up in the morning Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  that when I miss you that be when I want you
+Song:  That's When 	 Line:  that when I miss you that be when I want you Similarity:  1.0
+
+
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  that be when I love you that be when
+Song:  That's When 	 Line:  that be when I love you that be when Similarity:  1.0
+
+
+Song:  Can't Stop Loving You 	 Line:  that I be lie
+Song:  Eldest Daughter 	 Line:  that be a lie Similarity:  1.0
+
+
+Song:  Drama Queen 	 Line:  you will see
+Song:  Closest To A Cowboy 	 Line:  you will see I Similarity:  1.0
+
+
+Song:  Wonderland 	 Line:  oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  We Are Never Ever Getting Back Together 	 Line:  no
+Song:  Should've Said No 	 Line:  no no no no Similarity:  1.0
+Song:  You're Not Sorry 	 Line:  no no no no Similarity:  1.0
+Song:  no body, no crime 	 Line:  no no body no crime Similarity:  0.905
+Song:  Better Than Revenge 	 Line:  no no no no Similarity:  1.0
+Song:  august 	 Line:  no Similarity:  1.0
+
+
+Song:  Robin 	 Line:  for you
+Song:  Don't Blame Me 	 Line:  for you Similarity:  1.0
+
+
+Song:  epiphany 	 Line:  out
+Song:  I Look in People's Windows 	 Line:  out out out out out out Similarity:  1.0
+
+
+Song:  Me And Britney 	 Line:  oh oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  By The Way 	 Line:  and by the way
+Song:  Bejeweled 	 Line:  and by the way Similarity:  1.0
+
+
+Song:  By The Way 	 Line:  by the way
+Song:  Question...? 	 Line:  by the way Similarity:  1.0
+Song:  Picture To Burn 	 Line:  by the way Similarity:  1.0
+
+
+Song:  Call It What You Want 	 Line:  'cause
+Song:  no body, no crime 	 Line:  'cause Similarity:  1.0
+Song:  thanK you aIMee 	 Line:  'cause Similarity:  1.0
+
+
+Song:  Love Story 	 Line:  and I say
+Song:  Girl At Home 	 Line:  and I say Similarity:  1.0
+Song:  Stay Stay Stay 	 Line:  and I say Similarity:  1.0
+Song:  Brought Up That Way 	 Line:  and say Similarity:  1.0
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and I say Similarity:  1.0
+Song:  Honey Baby 	 Line:  and I say Similarity:  1.0
+Song:  That's When 	 Line:  and I say Similarity:  1.0
+
+
+Song:  Love Story 	 Line:  oh oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  Love Story 	 Line:  but you be everything to I
+Song:  Invisible 	 Line:  but you be everything to I Similarity:  1.0
+
+
+Song:  The Moment I Knew 	 Line:  what do you say
+Song:  What Do You Say 	 Line:  what do you say Similarity:  1.0
+
+
+Song:  The Moment I Knew 	 Line:  Ooh
+Song:  Lavender Haze 	 Line:  Ooh ooh ooh whoa Similarity:  0.949
+Song:  invisible string 	 Line:  ooh ooh ooh ooh Similarity:  1.0
+Song:  Dancing With Our Hands Tied 	 Line:  Ooh ooh ooh ooh Similarity:  1.0
+Song:  It's Nice To Have A Friend 	 Line:  Ooh Similarity:  1.0
+Song:  22 	 Line:  ooh ooh Similarity:  1.0
+Song:  The Prophecy 	 Line:  Ooh Similarity:  1.0
+Song:  Safe & Sound 	 Line:  Ooh ooh ooh ooh Similarity:  1.0
+Song:  Sweet Nothing 	 Line:  Ooh Similarity:  1.0
+Song:  ME! 	 Line:  ooh ooh ooh ooh Similarity:  1.0
+Song:  dorothea 	 Line:  ooh woo ooh ooh ooh ooh ooh ooh ooh Similarity:  0.992
+
+
+Song:  Untouchable 	 Line:  in the middle of the night
+Song:  ...Ready For It? 	 Line:  in the middle of the night Similarity:  1.0
+Song:  You Belong With Me 	 Line:  in the middle of the night Similarity:  1.0
+
+
+Song:  Untouchable 	 Line:  come on come on
+Song:  Better Than Revenge 	 Line:  come on come on Similarity:  1.0
+
+
+Song:  Don't You (Taylor's Version) (From The Vault) 	 Line:  ah ah ah ah
+Song:  invisible string 	 Line:  ah ah ah Similarity:  1.0
+Song:  exile 	 Line:  ah ah Similarity:  1.0
+Song:  New Romantics 	 Line:  ah ah ah ah ah ah Similarity:  1.0
+Song:  Paper Rings 	 Line:  ah Similarity:  1.0
+
+
+Song:  New Romantics 	 Line:  it be so romantic it be so romantic
+Song:  Actually Romantic 	 Line:  it be so romantic Similarity:  1.0
+
+
+Song:  New Romantics 	 Line:  ah ah ah ah ah ah
+Song:  invisible string 	 Line:  ah ah ah Similarity:  1.0
+Song:  exile 	 Line:  ah ah Similarity:  1.0
+Song:  Don't You (Taylor's Version) (From The Vault) 	 Line:  ah ah ah ah Similarity:  1.0
+Song:  Paper Rings 	 Line:  ah Similarity:  1.0
+
+
+Song:  The Great War 	 Line:  uh huh uh huh
+Song:  Her 	 Line:  uh huh Similarity:  1.0
+Song:  Paper Rings 	 Line:  uh huh Similarity:  1.0
+
+
+Song:  Message In A Bottle (Taylor's Version) (From The Vault) 	 Line:  my love
+Song:  I Know Places 	 Line:  my love Similarity:  1.0
+
+
+Song:  You All Over Me (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift
+Song:  End Game 	 Line:  Taylor Swift Similarity:  1.0
+Song:  coney island 	 Line:  Taylor Swift Similarity:  1.0
+Song:  no body, no crime 	 Line:  Taylor Swift Similarity:  1.0
+Song:  I Don't Wanna Live Forever 	 Line:  Taylor Swift Similarity:  1.0
+Song:  exile 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  The Last Time 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Thug Story 	 Line:  Taylor Swift Similarity:  1.0
+Song:  ME! 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Breathe 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  Taylor Swift Similarity:  1.0
+Song:  evermore 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When 	 Line:  Taylor Swift Similarity:  1.0
+
+
+Song:  Monologue Song (La La La) 	 Line:  La la la la la la
+Song:  Safe & Sound 	 Line:  La la la la Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  La la la Similarity:  1.0
+Song:  Fifteen 	 Line:  La la la la la la la Similarity:  1.0
+Song:  Foolish One (Taylor's Version) (From The Vault) 	 Line:  La la la la la la la la la oh Similarity:  0.994
+
+
+Song:  Monologue Song (La La La) 	 Line:  ha ha ha ha ha ha
+Song:  Hey Stephen 	 Line:  ha ha Similarity:  1.0
+
+
+Song:  The Last Time 	 Line:  both
+Song:  Everything Has Changed 	 Line:  both Similarity:  1.0
+
+
+Song:  The Last Time 	 Line:  Taylor Swift
+Song:  End Game 	 Line:  Taylor Swift Similarity:  1.0
+Song:  coney island 	 Line:  Taylor Swift Similarity:  1.0
+Song:  no body, no crime 	 Line:  Taylor Swift Similarity:  1.0
+Song:  I Don't Wanna Live Forever 	 Line:  Taylor Swift Similarity:  1.0
+Song:  exile 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  You All Over Me (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Thug Story 	 Line:  Taylor Swift Similarity:  1.0
+Song:  ME! 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Breathe 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  Taylor Swift Similarity:  1.0
+Song:  evermore 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When 	 Line:  Taylor Swift Similarity:  1.0
+
+
+Song:  The Last Time 	 Line:  oh oh oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  Permanent Marker 	 Line:  oh yeah
+Song:  Baby, Don't You Break My Heart Slow 	 Line:  oh yeah yeah Similarity:  0.949
+Song:  Nevermind 	 Line:  yeah oh yeah Similarity:  0.949
+Song:  The Outside 	 Line:  oh yeah Similarity:  1.0
+Song:  Fearless 	 Line:  oh yeah Similarity:  1.0
+Song:  Til Brad Pitt Comes Along 	 Line:  yeah oh oh Similarity:  0.949
+Song:  22 	 Line:  oh yeah Similarity:  1.0
+Song:  Look At You Like That 	 Line:  oh yeah Similarity:  1.0
+Song:  Live For The Little Things 	 Line:  oh yeah Similarity:  1.0
+Song:  Matches 	 Line:  oh yeah Similarity:  1.0
+Song:  Our Song 	 Line:  oh yeah Similarity:  1.0
+
+
+Song:  Paris 	 Line:  in my mind
+Song:  Shake It Off 	 Line:  in my mind Similarity:  1.0
+
+
+Song:  Thug Story 	 Line:  Taylor Swift
+Song:  End Game 	 Line:  Taylor Swift Similarity:  1.0
+Song:  coney island 	 Line:  Taylor Swift Similarity:  1.0
+Song:  no body, no crime 	 Line:  Taylor Swift Similarity:  1.0
+Song:  I Don't Wanna Live Forever 	 Line:  Taylor Swift Similarity:  1.0
+Song:  exile 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  You All Over Me (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  The Last Time 	 Line:  Taylor Swift Similarity:  1.0
+Song:  ME! 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Breathe 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  Taylor Swift Similarity:  1.0
+Song:  evermore 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When 	 Line:  Taylor Swift Similarity:  1.0
+
+
+Song:  Thug Story 	 Line:  I have
+Song:  So High School 	 Line:  have I Similarity:  1.0
+
+
+Song:  Houston Rodeo 	 Line:  look up at the sky
+Song:  Don't Hate Me For Loving You 	 Line:  I look up at the sky Similarity:  1.0
+
+
+Song:  Matches 	 Line:  oh yeah
+Song:  Baby, Don't You Break My Heart Slow 	 Line:  oh yeah yeah Similarity:  0.949
+Song:  Nevermind 	 Line:  yeah oh yeah Similarity:  0.949
+Song:  The Outside 	 Line:  oh yeah Similarity:  1.0
+Song:  Fearless 	 Line:  oh yeah Similarity:  1.0
+Song:  Til Brad Pitt Comes Along 	 Line:  yeah oh oh Similarity:  0.949
+Song:  22 	 Line:  oh yeah Similarity:  1.0
+Song:  Look At You Like That 	 Line:  oh yeah Similarity:  1.0
+Song:  Live For The Little Things 	 Line:  oh yeah Similarity:  1.0
+Song:  Permanent Marker 	 Line:  oh yeah Similarity:  1.0
+Song:  Our Song 	 Line:  oh yeah Similarity:  1.0
+
+
+Song:  Our Song 	 Line:  and he say
+Song:  Brought Up That Way 	 Line:  and he say Similarity:  1.0
+
+
+Song:  Our Song 	 Line:  oh yeah
+Song:  Baby, Don't You Break My Heart Slow 	 Line:  oh yeah yeah Similarity:  0.949
+Song:  Nevermind 	 Line:  yeah oh yeah Similarity:  0.949
+Song:  The Outside 	 Line:  oh yeah Similarity:  1.0
+Song:  Fearless 	 Line:  oh yeah Similarity:  1.0
+Song:  Til Brad Pitt Comes Along 	 Line:  yeah oh oh Similarity:  0.949
+Song:  22 	 Line:  oh yeah Similarity:  1.0
+Song:  Look At You Like That 	 Line:  oh yeah Similarity:  1.0
+Song:  Live For The Little Things 	 Line:  oh yeah Similarity:  1.0
+Song:  Permanent Marker 	 Line:  oh yeah Similarity:  1.0
+Song:  Matches 	 Line:  oh yeah Similarity:  1.0
+
+
+Song:  London Boy 	 Line:  oh whoa oh I
+Song:  Our Last Night 	 Line:  oh oh oh whoa whoa yeah oh Similarity:  0.976
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.99
+
+
+Song:  Paper Rings 	 Line:  Ayy
+Song:  Blank Space 	 Line:  Ayy Similarity:  1.0
+
+
+Song:  Paper Rings 	 Line:  ah
+Song:  invisible string 	 Line:  ah ah ah Similarity:  1.0
+Song:  exile 	 Line:  ah ah Similarity:  1.0
+Song:  Don't You (Taylor's Version) (From The Vault) 	 Line:  ah ah ah ah Similarity:  1.0
+Song:  New Romantics 	 Line:  ah ah ah ah ah ah Similarity:  1.0
+
+
+Song:  Paper Rings 	 Line:  uh huh
+Song:  Her 	 Line:  uh huh Similarity:  1.0
+Song:  The Great War 	 Line:  uh huh uh huh Similarity:  1.0
+
+
+Song:  Paper Rings 	 Line:  you be the one I want one I want
+Song:  Paper Rings 	 Line:  you be the one I want one I want Similarity:  1.0
+
+
+Song:  Paper Rings 	 Line:  you be the one I want one I want
+Song:  Paper Rings 	 Line:  you be the one I want one I want Similarity:  1.0
+
+
+Song:  Don't Blame Me 	 Line:  for you
+Song:  Robin 	 Line:  for you Similarity:  1.0
+
+
+Song:  Sweet Nothing 	 Line:  Ooh
+Song:  Lavender Haze 	 Line:  Ooh ooh ooh whoa Similarity:  0.949
+Song:  invisible string 	 Line:  ooh ooh ooh ooh Similarity:  1.0
+Song:  Dancing With Our Hands Tied 	 Line:  Ooh ooh ooh ooh Similarity:  1.0
+Song:  It's Nice To Have A Friend 	 Line:  Ooh Similarity:  1.0
+Song:  22 	 Line:  ooh ooh Similarity:  1.0
+Song:  The Prophecy 	 Line:  Ooh Similarity:  1.0
+Song:  Safe & Sound 	 Line:  Ooh ooh ooh ooh Similarity:  1.0
+Song:  The Moment I Knew 	 Line:  Ooh Similarity:  1.0
+Song:  ME! 	 Line:  ooh ooh ooh ooh Similarity:  1.0
+Song:  dorothea 	 Line:  ooh woo ooh ooh ooh ooh ooh ooh ooh Similarity:  0.992
+
+
+Song:  cardigan 	 Line:  I know you
+Song:  it's time to go 	 Line:  you know you know you know you know Similarity:  1.0
+Song:  I Knew It, I Knew You 	 Line:  I know you Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  I just wanna know you know you know you Similarity:  0.949
+
+
+Song:  Babe (Taylor's Version) (From The Vault) 	 Line:  what a waste
+Song:  Look At You Like That 	 Line:  what a waste Similarity:  1.0
+
+
+Song:  Picture To Burn 	 Line:  by the way
+Song:  Question...? 	 Line:  by the way Similarity:  1.0
+Song:  By The Way 	 Line:  by the way Similarity:  1.0
+
+
+Song:  Under My Head 	 Line:  na na na na na na na na na
+Song:  Live For The Little Things 	 Line:  na na na Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  na na na na na Similarity:  1.0
+
+
+Song:  Under My Head 	 Line:  oh oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  I Knew You Were Trouble 	 Line:  once upon a time a few mistake ago
+Song:  I Knew You Were Trouble 	 Line:  once upon a time a few mistake ago Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  I be in your sight you get I alone
+Song:  I Knew You Were Trouble 	 Line:  I be in your sight you get I alone Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  you find I you find I you find I
+Song:  I Knew You Were Trouble 	 Line:  you find I you find I you find I Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  I guess you do not care and I guess I like that
+Song:  I Knew You Were Trouble 	 Line:  I guess you do not care and I guess I like that Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  and when I fall hard you take a step back
+Song:  I Knew You Were Trouble 	 Line:  and when I fall hard you take a step back Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  without I without I without I
+Song:  I Knew You Were Trouble 	 Line:  without I without I without I Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  and he be long go when he be next to I
+Song:  I Knew You Were Trouble 	 Line:  and he be long go when he be next to I Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  and I realize the blame be on I
+Song:  I Knew You Were Trouble 	 Line:  and I realize the blame be on I Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  'cause I know you be trouble when you walk in
+Song:  I Knew You Were Trouble 	 Line:  'cause I know you be trouble when you walk in Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  so shame on I now
+Song:  I Knew You Were Trouble 	 Line:  so shame on I now Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  fly I to place I would never be
+Song:  I Knew You Were Trouble 	 Line:  fly I to place I would never be Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  Til you put I down oh
+Song:  I Knew You Were Trouble 	 Line:  Til you put I down oh Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  now I be lie on the cold hard ground
+Song:  I Knew You Were Trouble 	 Line:  now I be lie on the cold hard ground Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  oh oh trouble trouble trouble
+Song:  I Knew You Were Trouble 	 Line:  oh oh trouble trouble trouble Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  no apology he will never see you cry
+Song:  I Knew You Were Trouble 	 Line:  no apology he will never see you cry Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  pretend he do not know that he be the reason why
+Song:  I Knew You Were Trouble 	 Line:  pretend he do not know that he be the reason why Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  you be drown you be drown you be drown
+Song:  I Knew You Were Trouble 	 Line:  you be drown you be drown you be drown Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  now I hear you move on from whisper on the street
+Song:  I Knew You Were Trouble 	 Line:  now I hear you move on from whisper on the street Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  a new notch in your belt be all I will ever be
+Song:  I Knew You Were Trouble 	 Line:  a new notch in your belt be all I will ever be Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  and now I see now I see now I see
+Song:  I Knew You Were Trouble 	 Line:  and now I see now I see now I see Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  he be long go when he meet I
+Song:  I Knew You Were Trouble 	 Line:  he be long go when he meet I Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  and I realize the joke be on I hey
+Song:  I Knew You Were Trouble 	 Line:  and I realize the joke be on I hey Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  and the sad fear come creep in
+Song:  I Knew You Were Trouble 	 Line:  and the sad fear come creep in Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  that you never love I or she or anyone or anything yeah
+Song:  I Knew You Were Trouble 	 Line:  that you never love I or she or anyone or anything yeah Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  I know you be trouble when you walk in know it right there
+Song:  I Knew You Were Trouble 	 Line:  I know you be trouble when you walk in know it right there Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  so shame on I now know it right there
+Song:  I Knew You Were Trouble 	 Line:  so shame on I now know it right there Similarity:  1.0
+
+
+Song:  I Knew You Were Trouble 	 Line:  trouble trouble trouble
+Song:  I Knew You Were Trouble 	 Line:  trouble trouble trouble Similarity:  1.0
+
+
+Song:  Hey Stephen 	 Line:  ha ha
+Song:  Monologue Song (La La La) 	 Line:  ha ha ha ha ha ha Similarity:  1.0
+
+
+Song:  Honey Baby 	 Line:  and I say
+Song:  Girl At Home 	 Line:  and I say Similarity:  1.0
+Song:  Stay Stay Stay 	 Line:  and I say Similarity:  1.0
+Song:  Brought Up That Way 	 Line:  and say Similarity:  1.0
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and I say Similarity:  1.0
+Song:  Love Story 	 Line:  and I say Similarity:  1.0
+Song:  That's When 	 Line:  and I say Similarity:  1.0
+
+
+Song:  Honey Baby 	 Line:  oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  Change 	 Line:  oh oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  Change 	 Line:  Hallelujah
+Song:  Silent Night 	 Line:  Hallelujah Similarity:  1.0
+
+
+Song:  I Look in People's Windows 	 Line:  out out out out out out
+Song:  epiphany 	 Line:  out Similarity:  1.0
+
+
+Song:  ME! 	 Line:  Taylor Swift
+Song:  End Game 	 Line:  Taylor Swift Similarity:  1.0
+Song:  coney island 	 Line:  Taylor Swift Similarity:  1.0
+Song:  no body, no crime 	 Line:  Taylor Swift Similarity:  1.0
+Song:  I Don't Wanna Live Forever 	 Line:  Taylor Swift Similarity:  1.0
+Song:  exile 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  You All Over Me (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  The Last Time 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Thug Story 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Breathe 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  Taylor Swift Similarity:  1.0
+Song:  evermore 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When 	 Line:  Taylor Swift Similarity:  1.0
+
+
+Song:  ME! 	 Line:  ooh ooh ooh ooh
+Song:  Lavender Haze 	 Line:  Ooh ooh ooh whoa Similarity:  0.949
+Song:  invisible string 	 Line:  ooh ooh ooh ooh Similarity:  1.0
+Song:  Dancing With Our Hands Tied 	 Line:  Ooh ooh ooh ooh Similarity:  1.0
+Song:  It's Nice To Have A Friend 	 Line:  Ooh Similarity:  1.0
+Song:  22 	 Line:  ooh ooh Similarity:  1.0
+Song:  The Prophecy 	 Line:  Ooh Similarity:  1.0
+Song:  Safe & Sound 	 Line:  Ooh ooh ooh ooh Similarity:  1.0
+Song:  The Moment I Knew 	 Line:  Ooh Similarity:  1.0
+Song:  Sweet Nothing 	 Line:  Ooh Similarity:  1.0
+Song:  dorothea 	 Line:  ooh woo ooh ooh ooh ooh ooh ooh ooh Similarity:  0.992
+
+
+Song:  Back To December 	 Line:  all the time
+Song:  Nevermind 	 Line:  all the time Similarity:  1.0
+
+
+Song:  Breathe 	 Line:  Taylor Swift
+Song:  End Game 	 Line:  Taylor Swift Similarity:  1.0
+Song:  coney island 	 Line:  Taylor Swift Similarity:  1.0
+Song:  no body, no crime 	 Line:  Taylor Swift Similarity:  1.0
+Song:  I Don't Wanna Live Forever 	 Line:  Taylor Swift Similarity:  1.0
+Song:  exile 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  You All Over Me (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  The Last Time 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Thug Story 	 Line:  Taylor Swift Similarity:  1.0
+Song:  ME! 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  Taylor Swift Similarity:  1.0
+Song:  evermore 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When 	 Line:  Taylor Swift Similarity:  1.0
+
+
+Song:  Don't Hate Me For Loving You 	 Line:  I look up at the sky
+Song:  Houston Rodeo 	 Line:  look up at the sky Similarity:  1.0
+
+
+Song:  Fifteen 	 Line:  La la la la la la la
+Song:  Safe & Sound 	 Line:  La la la la Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  La la la Similarity:  1.0
+Song:  Monologue Song (La La La) 	 Line:  La la la la la la Similarity:  1.0
+Song:  Foolish One (Taylor's Version) (From The Vault) 	 Line:  La la la la la la la la la oh Similarity:  0.994
+
+
+Song:  dorothea 	 Line:  ooh woo ooh ooh ooh ooh ooh ooh ooh
+Song:  Lavender Haze 	 Line:  Ooh ooh ooh whoa Similarity:  0.941
+Song:  invisible string 	 Line:  ooh ooh ooh ooh Similarity:  0.992
+Song:  Dancing With Our Hands Tied 	 Line:  Ooh ooh ooh ooh Similarity:  0.992
+Song:  It's Nice To Have A Friend 	 Line:  Ooh Similarity:  0.992
+Song:  22 	 Line:  ooh ooh Similarity:  0.992
+Song:  The Prophecy 	 Line:  Ooh Similarity:  0.992
+Song:  Safe & Sound 	 Line:  Ooh ooh ooh ooh Similarity:  0.992
+Song:  The Moment I Knew 	 Line:  Ooh Similarity:  0.992
+Song:  Sweet Nothing 	 Line:  Ooh Similarity:  0.992
+Song:  ME! 	 Line:  ooh ooh ooh ooh Similarity:  0.992
+
+
+Song:  I'm Only Me When I'm With You 	 Line:  with you
+Song:  Cruel Summer 	 Line:  with you Similarity:  1.0
+
+
+Song:  Everything Has Changed 	 Line:  Ed Sheeran
+Song:  End Game 	 Line:  Ed Sheeran Similarity:  1.0
+
+
+Song:  Everything Has Changed 	 Line:  Taylor Swift
+Song:  End Game 	 Line:  Taylor Swift Similarity:  1.0
+Song:  coney island 	 Line:  Taylor Swift Similarity:  1.0
+Song:  no body, no crime 	 Line:  Taylor Swift Similarity:  1.0
+Song:  I Don't Wanna Live Forever 	 Line:  Taylor Swift Similarity:  1.0
+Song:  exile 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  You All Over Me (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  The Last Time 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Thug Story 	 Line:  Taylor Swift Similarity:  1.0
+Song:  ME! 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Breathe 	 Line:  Taylor Swift Similarity:  1.0
+Song:  evermore 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When 	 Line:  Taylor Swift Similarity:  1.0
+
+
+Song:  Everything Has Changed 	 Line:  both
+Song:  The Last Time 	 Line:  both Similarity:  1.0
+
+
+Song:  Everything Has Changed 	 Line:  oh oh oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  oh Similarity:  1.0
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  1.0
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.995
+Song:  Our Last Night 	 Line:  oh Similarity:  1.0
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.97
+Song:  My Boy Only Breaks His Favorite Toys 	 Line:  oh oh my boy only break his favorite toy oh oh oh oh Similarity:  0.915
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  1.0
+Song:  Fearless 	 Line:  oh oh Similarity:  1.0
+Song:  This Is Really Happening 	 Line:  oh Similarity:  1.0
+Song:  Made Up You 	 Line:  oh oh Similarity:  1.0
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  1.0
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  1.0
+Song:  Speak Now 	 Line:  oh oh Similarity:  1.0
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  1.0
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.962
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  1.0
+Song:  Haunted 	 Line:  oh Similarity:  1.0
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  1.0
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  1.0
+Song:  Wonderland 	 Line:  oh Similarity:  1.0
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  1.0
+Song:  Me And Britney 	 Line:  oh oh Similarity:  1.0
+Song:  Love Story 	 Line:  oh oh Similarity:  1.0
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  1.0
+Song:  Under My Head 	 Line:  oh oh Similarity:  1.0
+Song:  Honey Baby 	 Line:  oh Similarity:  1.0
+Song:  Change 	 Line:  oh oh Similarity:  1.0
+Song:  The Lucky One 	 Line:  oh whoa oh oh Similarity:  0.949
+
+
+Song:  evermore 	 Line:  Taylor Swift
+Song:  End Game 	 Line:  Taylor Swift Similarity:  1.0
+Song:  coney island 	 Line:  Taylor Swift Similarity:  1.0
+Song:  no body, no crime 	 Line:  Taylor Swift Similarity:  1.0
+Song:  I Don't Wanna Live Forever 	 Line:  Taylor Swift Similarity:  1.0
+Song:  exile 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  You All Over Me (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  The Last Time 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Thug Story 	 Line:  Taylor Swift Similarity:  1.0
+Song:  ME! 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Breathe 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When 	 Line:  Taylor Swift Similarity:  1.0
+
+
+Song:  evermore 	 Line:  Justin Vernon
+Song:  exile 	 Line:  Justin Vernon Similarity:  1.0
+
+
+Song:  evermore 	 Line:  you be there
+Song:  All Night Diner 	 Line:  there you be Similarity:  1.0
+Song:  Look At You Like That 	 Line:  there you be Similarity:  1.0
+
+
+Song:  The Lucky One 	 Line:  oh whoa oh oh
+Song:  Clean 	 Line:  oh oh oh oh Similarity:  0.949
+Song:  Long Time Coming 	 Line:  oh oh oh oh oh Similarity:  0.949
+Song:  Out Of The Woods 	 Line:  oh Similarity:  0.949
+Song:  We Were Happy 	 Line:  oh oh oh oh oh Similarity:  0.949
+Song:  You Need To Calm Down 	 Line:  so oh oh oh oh oh oh oh oh oh oh Similarity:  0.944
+Song:  Our Last Night 	 Line:  oh Similarity:  0.949
+Song:  Our Last Night 	 Line:  oh oh oh whoa whoa yeah oh Similarity:  0.966
+Song:  Tell Me 	 Line:  oh oh oh oh yeah Similarity:  0.92
+Song:  All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) 	 Line:  oh oh oh Similarity:  0.949
+Song:  Fearless 	 Line:  oh oh Similarity:  0.949
+Song:  This Is Really Happening 	 Line:  oh Similarity:  0.949
+Song:  Made Up You 	 Line:  oh oh Similarity:  0.949
+Song:  Elizabeth Taylor 	 Line:  oh oh oh Similarity:  0.949
+Song:  How You Get The Girl 	 Line:  oh oh oh Similarity:  0.949
+Song:  Speak Now 	 Line:  oh oh Similarity:  0.949
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh oh oh oh Similarity:  0.949
+Song:  This Love 	 Line:  oh oh oh oh oh oh Similarity:  0.949
+Song:  Opalite 	 Line:  oh oh oh oh oh my Lord Similarity:  0.913
+Song:  I Knew It, I Knew You 	 Line:  oh Similarity:  0.949
+Song:  Haunted 	 Line:  oh Similarity:  0.949
+Song:  Let's Go (Battle) 	 Line:  oh oh Similarity:  0.949
+Song:  Stay Beautiful 	 Line:  oh oh oh oh Similarity:  0.949
+Song:  Wonderland 	 Line:  oh Similarity:  0.949
+Song:  We Are Never Ever Getting Back Together 	 Line:  oh oh oh Similarity:  0.949
+Song:  Me And Britney 	 Line:  oh oh Similarity:  0.949
+Song:  Love Story 	 Line:  oh oh Similarity:  0.949
+Song:  The Last Time 	 Line:  oh oh oh Similarity:  0.949
+Song:  London Boy 	 Line:  oh whoa oh I Similarity:  0.99
+Song:  Under My Head 	 Line:  oh oh Similarity:  0.949
+Song:  Honey Baby 	 Line:  oh Similarity:  0.949
+Song:  Change 	 Line:  oh oh Similarity:  0.949
+Song:  Everything Has Changed 	 Line:  oh oh oh Similarity:  0.949
+
+
+Song:  Foolish One (Taylor's Version) (From The Vault) 	 Line:  La la la la la la la la la oh
+Song:  Speak Now 	 Line:  oh la la Similarity:  0.938
+Song:  Safe & Sound 	 Line:  La la la la Similarity:  0.994
+Song:  Stay Beautiful 	 Line:  La la la Similarity:  0.994
+Song:  Monologue Song (La La La) 	 Line:  La la la la la la Similarity:  0.994
+Song:  Fifteen 	 Line:  La la la la la la la Similarity:  0.994
+
+
+Song:  That's When 	 Line:  Taylor Swift
+Song:  End Game 	 Line:  Taylor Swift Similarity:  1.0
+Song:  coney island 	 Line:  Taylor Swift Similarity:  1.0
+Song:  no body, no crime 	 Line:  Taylor Swift Similarity:  1.0
+Song:  I Don't Wanna Live Forever 	 Line:  Taylor Swift Similarity:  1.0
+Song:  exile 	 Line:  Taylor Swift Similarity:  1.0
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  You All Over Me (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift Similarity:  1.0
+Song:  The Last Time 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Thug Story 	 Line:  Taylor Swift Similarity:  1.0
+Song:  ME! 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Breathe 	 Line:  Taylor Swift Similarity:  1.0
+Song:  Everything Has Changed 	 Line:  Taylor Swift Similarity:  1.0
+Song:  evermore 	 Line:  Taylor Swift Similarity:  1.0
+
+
+Song:  That's When 	 Line:  you say I know
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  you say I know Similarity:  1.0
+
+
+Song:  That's When 	 Line:  when I say I need some time need some space
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  when I say I need some time need some space Similarity:  1.0
+
+
+Song:  That's When 	 Line:  to think about all of this
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  to think about all of this Similarity:  1.0
+
+
+Song:  That's When 	 Line:  you watch I go
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  you watch I go Similarity:  1.0
+
+
+Song:  That's When 	 Line:  and I know my
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and I know my Similarity:  1.0
+
+
+Song:  That's When 	 Line:  word be hard to hear
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  word be hard to hear Similarity:  1.0
+
+
+Song:  That's When 	 Line:  and hard to ever take back
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and hard to ever take back Similarity:  1.0
+
+
+Song:  That's When 	 Line:  and I say when can i I I come back
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and I say when can i I I come back Similarity:  1.0
+
+
+Song:  That's When 	 Line:  Taylor Swift and Keith Urban
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift and Keith Urban Similarity:  1.0
+
+
+Song:  That's When 	 Line:  and you say that be when
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and you say that be when Similarity:  1.0
+
+
+Song:  That's When 	 Line:  when I wake up in the morning
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  when I wake up in the morning Similarity:  1.0
+
+
+Song:  That's When 	 Line:  that be when when it be sunny or storm
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  that be when when it be sunny or storm Similarity:  1.0
+
+
+Song:  That's When 	 Line:  laugh when I be cry
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  laugh when I be cry Similarity:  1.0
+
+
+Song:  That's When 	 Line:  and that be when I will be wait at the front gate
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and that be when I will be wait at the front gate Similarity:  1.0
+
+
+Song:  That's When 	 Line:  that be when when I see your face
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  that be when when I see your face Similarity:  1.0
+
+
+Song:  That's When 	 Line:  I will let you in and baby that be when
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  I will let you in and baby that be when Similarity:  1.0
+
+
+Song:  That's When 	 Line:  Mm mm
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  Mm mm Similarity:  1.0
+Song:  Hey Stephen 	 Line:  Mmm mm mm mm Similarity:  0.949
+
+
+Song:  That's When 	 Line:  I say I know
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  I say I know Similarity:  1.0
+
+
+Song:  That's When 	 Line:  when you say I do you wrong
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  when you say I do you wrong Similarity:  1.0
+
+
+Song:  That's When 	 Line:  make mistake
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  make mistake Similarity:  1.0
+
+
+Song:  That's When 	 Line:  and put you through all of this through all of this
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and put you through all of this through all of this Similarity:  1.0
+
+
+Song:  That's When 	 Line:  then through the phone
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  then through the phone Similarity:  1.0
+
+
+Song:  That's When 	 Line:  come all your tear
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  come all your tear Similarity:  1.0
+
+
+Song:  That's When 	 Line:  and I say leave those all in our past
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and I say leave those all in our past Similarity:  1.0
+
+
+Song:  That's When 	 Line:  and you say honestly
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and you say honestly Similarity:  1.0
+
+
+Song:  That's When 	 Line:  when you be go
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  when you be go Similarity:  1.0
+
+
+Song:  That's When 	 Line:  do you ever think of I
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  do you ever think of I Similarity:  1.0
+
+
+Song:  That's When 	 Line:  and I say
+Song:  Girl At Home 	 Line:  and I say Similarity:  1.0
+Song:  Stay Stay Stay 	 Line:  and I say Similarity:  1.0
+Song:  Brought Up That Way 	 Line:  and say Similarity:  1.0
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  and I say Similarity:  1.0
+Song:  Love Story 	 Line:  and I say Similarity:  1.0
+Song:  Honey Baby 	 Line:  and I say Similarity:  1.0
+
+
+Song:  That's When 	 Line:  Taylor Swift with Keith Urban
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  Taylor Swift with Keith Urban Similarity:  1.0
+
+
+Song:  That's When 	 Line:  that be when when I wake up in the morning
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  that be when when I wake up in the morning Similarity:  1.0
+
+
+Song:  That's When 	 Line:  that when I miss you that be when I want you
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  that when I miss you that be when I want you Similarity:  1.0
+
+
+Song:  That's When 	 Line:  that be when I love you that be when
+Song:  That's When (Taylor's Version) (From The Vault) 	 Line:  that be when I love you that be when Similarity:  1.0
+
+
+Song:  Pink Clouding 	 Line:  let you want I
+Song:  Invisible 	 Line:  let I want you Similarity:  1.0
+
+
