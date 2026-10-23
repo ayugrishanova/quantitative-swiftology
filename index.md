@@ -65,8 +65,10 @@ Let us look at the song "Cassandra". In the figure below, yellow squares mean li
 
 [Figure after filtering](cassandra1.html)
 
+<iframe src="{{ site.baseurl }}notebooks/figures/cassandra_before.html" width="100%" height="500px" frameborder="0"></iframe>
+
 {% raw %}
-{% include cassandra0.html %}
+{% include cassandra1.html %}
 {% endraw %}
 
 However, this operation was not enough for some of the songs. See this [funny file](misc/similar_lines.txt), where I exported some similar lines throuout the corpus. What helped was adding additional filters:
