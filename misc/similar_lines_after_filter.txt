@@ -1,0 +1,236 @@
+Song:  Question...? 	 Line:  I remember
+Song:  Sweet Tea And God's Graces 	 Line:  I remember Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  I remember Similarity:  1.0
+
+
+Song:  Question...? 	 Line:  by the way
+Song:  Picture To Burn 	 Line:  by the way Similarity:  1.0
+
+
+Song:  Sweet Tea And God's Graces 	 Line:  I remember
+Song:  Question...? 	 Line:  I remember Similarity:  1.0
+Song:  Out Of The Woods 	 Line:  I remember Similarity:  1.0
+
+
+Song:  Out Of The Woods 	 Line:  I remember
+Song:  Question...? 	 Line:  I remember Similarity:  1.0
+Song:  Sweet Tea And God's Graces 	 Line:  I remember Similarity:  1.0
+
+
+Song:  imgonnagetyouback 	 Line:  you be mine
+Song:  Christmases When You Were Mine 	 Line:  you be mine Similarity:  1.0
+
+
+Song:  You Need To Calm Down 	 Line:  we all know now
+Song:  State Of Grace 	 Line:  now all we know Similarity:  1.0
+
+
+Song:  Nevermind 	 Line:  look at you
+Song:  Making Up For Lost Love 	 Line:  just look at you look at I Similarity:  0.913
+Song:  Look At You Like That 	 Line:  look at you look at you look at you Similarity:  1.0
+
+
+Song:  Nevermind 	 Line:  I love you
+Song:  Christmas Tree Farm 	 Line:  I love you Similarity:  1.0
+
+
+Song:  Nevermind 	 Line:  all the time
+Song:  Back To December 	 Line:  all the time Similarity:  1.0
+
+
+Song:  White Horse 	 Line:  hold on
+Song:  Mine 	 Line:  hold on Similarity:  1.0
+Song:  Thug Story 	 Line:  hey hold on hold on Similarity:  0.943
+
+
+Song:  White Horse 	 Line:  now I know
+Song:  cowboy like me 	 Line:  now I know Similarity:  1.0
+
+
+Song:  Christmases When You Were Mine 	 Line:  you be mine
+Song:  imgonnagetyouback 	 Line:  you be mine Similarity:  1.0
+
+
+Song:  this is me trying 	 Line:  I just want you to know
+Song:  Christmas Tree Farm 	 Line:  I just want you to know Similarity:  1.0
+
+
+Song:  Bejeweled 	 Line:  and by the way
+Song:  By The Way 	 Line:  and by the way Similarity:  1.0
+
+
+Song:  Invisible 	 Line:  but you be everything to I
+Song:  Love Story 	 Line:  but you be everything to I Similarity:  1.0
+
+
+Song:  Invisible 	 Line:  let I want you
+Song:  Pink Clouding 	 Line:  let you want I Similarity:  1.0
+
+
+Song:  cowboy like me 	 Line:  now I know
+Song:  White Horse 	 Line:  now I know Similarity:  1.0
+
+
+Song:  Christmas Tree Farm 	 Line:  I love you
+Song:  Nevermind 	 Line:  I love you Similarity:  1.0
+
+
+Song:  Christmas Tree Farm 	 Line:  I just want you to know
+Song:  this is me trying 	 Line:  I just want you to know Similarity:  1.0
+
+
+Song:  Cruel Summer 	 Line:  with you
+Song:  I'm Only Me When I'm With You 	 Line:  with you Similarity:  1.0
+
+
+Song:  closure 	 Line:  it be be a long time
+Song:  I Knew It, I Knew You 	 Line:  it be be a long time Similarity:  1.0
+
+
+Song:  I Know Places 	 Line:  my love
+Song:  Message In A Bottle (Taylor's Version) (From The Vault) 	 Line:  my love Similarity:  1.0
+
+
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh baby
+Song:  This Is Really Happening 	 Line:  oh oh baby Similarity:  0.949
+Song:  Sweet Escape 	 Line:  oh baby Similarity:  1.0
+
+
+Song:  Shake It Off 	 Line:  in my mind
+Song:  Paris 	 Line:  in my mind Similarity:  1.0
+
+
+Song:  Actually Romantic 	 Line:  it be so romantic
+Song:  New Romantics 	 Line:  it be so romantic it be so romantic Similarity:  1.0
+
+
+Song:  State Of Grace 	 Line:  now all we know
+Song:  You Need To Calm Down 	 Line:  we all know now Similarity:  1.0
+
+
+Song:  Closest To A Cowboy 	 Line:  you will see I
+Song:  Drama Queen 	 Line:  you will see Similarity:  1.0
+
+
+Song:  Sweet Escape 	 Line:  oh baby
+Song:  This Is Really Happening 	 Line:  oh oh baby Similarity:  0.949
+Song:  I Can See You (Taylor's Version) (From The Vault) 	 Line:  oh baby Similarity:  1.0
+
+
+Song:  All Night Diner 	 Line:  there you be
+Song:  Look At You Like That 	 Line:  there you be Similarity:  1.0
+Song:  evermore 	 Line:  you be there Similarity:  1.0
+
+
+Song:  All You Had To Do Was Stay 	 Line:  you be all I want
+Song:  Haunted 	 Line:  you be all I want Similarity:  1.0
+
+
+Song:  Look At You Like That 	 Line:  there you be
+Song:  All Night Diner 	 Line:  there you be Similarity:  1.0
+Song:  evermore 	 Line:  you be there Similarity:  1.0
+
+
+Song:  Look At You Like That 	 Line:  what a waste
+Song:  Babe (Taylor's Version) (From The Vault) 	 Line:  what a waste Similarity:  1.0
+
+
+Song:  Look At You Like That 	 Line:  look at you look at you look at you
+Song:  Nevermind 	 Line:  look at you Similarity:  1.0
+Song:  Making Up For Lost Love 	 Line:  just look at you look at I Similarity:  0.913
+
+
+Song:  it's time to go 	 Line:  you know you know you know you know
+Song:  I Knew It, I Knew You 	 Line:  I know you Similarity:  1.0
+
+
+Song:  Mine 	 Line:  hold on
+Song:  White Horse 	 Line:  hold on Similarity:  1.0
+Song:  Thug Story 	 Line:  hey hold on hold on Similarity:  0.943
+
+
+Song:  What Do You Say 	 Line:  what do you say
+Song:  The Moment I Knew 	 Line:  what do you say Similarity:  1.0
+
+
+Song:  I Knew It, I Knew You 	 Line:  I know you
+Song:  it's time to go 	 Line:  you know you know you know you know Similarity:  1.0
+
+
+Song:  I Knew It, I Knew You 	 Line:  it be be a long time
+Song:  closure 	 Line:  it be be a long time Similarity:  1.0
+
+
+Song:  Haunted 	 Line:  you be all I want
+Song:  All You Had To Do Was Stay 	 Line:  you be all I want Similarity:  1.0
+
+
+Song:  You Belong With Me 	 Line:  in the middle of the night
+Song:  Untouchable 	 Line:  in the middle of the night Similarity:  1.0
+
+
+Song:  Drama Queen 	 Line:  you will see
+Song:  Closest To A Cowboy 	 Line:  you will see I Similarity:  1.0
+
+
+Song:  Robin 	 Line:  for you
+Song:  Don't Blame Me 	 Line:  for you Similarity:  1.0
+
+
+Song:  By The Way 	 Line:  and by the way
+Song:  Bejeweled 	 Line:  and by the way Similarity:  1.0
+
+
+Song:  Love Story 	 Line:  but you be everything to I
+Song:  Invisible 	 Line:  but you be everything to I Similarity:  1.0
+
+
+Song:  The Moment I Knew 	 Line:  what do you say
+Song:  What Do You Say 	 Line:  what do you say Similarity:  1.0
+
+
+Song:  Untouchable 	 Line:  in the middle of the night
+Song:  You Belong With Me 	 Line:  in the middle of the night Similarity:  1.0
+
+
+Song:  New Romantics 	 Line:  it be so romantic it be so romantic
+Song:  Actually Romantic 	 Line:  it be so romantic Similarity:  1.0
+
+
+Song:  Message In A Bottle (Taylor's Version) (From The Vault) 	 Line:  my love
+Song:  I Know Places 	 Line:  my love Similarity:  1.0
+
+
+Song:  Paris 	 Line:  in my mind
+Song:  Shake It Off 	 Line:  in my mind Similarity:  1.0
+
+
+Song:  Don't Blame Me 	 Line:  for you
+Song:  Robin 	 Line:  for you Similarity:  1.0
+
+
+Song:  Babe (Taylor's Version) (From The Vault) 	 Line:  what a waste
+Song:  Look At You Like That 	 Line:  what a waste Similarity:  1.0
+
+
+Song:  Picture To Burn 	 Line:  by the way
+Song:  Question...? 	 Line:  by the way Similarity:  1.0
+
+
+Song:  Back To December 	 Line:  all the time
+Song:  Nevermind 	 Line:  all the time Similarity:  1.0
+
+
+Song:  I'm Only Me When I'm With You 	 Line:  with you
+Song:  Cruel Summer 	 Line:  with you Similarity:  1.0
+
+
+Song:  evermore 	 Line:  you be there
+Song:  All Night Diner 	 Line:  there you be Similarity:  1.0
+Song:  Look At You Like That 	 Line:  there you be Similarity:  1.0
+
+
+Song:  Pink Clouding 	 Line:  let you want I
+Song:  Invisible 	 Line:  let I want you Similarity:  1.0
+
+
