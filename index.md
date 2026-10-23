@@ -44,8 +44,10 @@ This procedure was repeated for each song, but I will show it on one example. Fi
 
 Let us look at the song "Cassandra". In the figure below, yellow squares mean line combinations with the highest similarity. The figure shows 6 different sequences of yellow squares (only one part above or below the diagonal counts). These include two identical bridges, two choruses and two verse starting lines.
 
-[Figure 1](notebooks/figures/cassandra_before.html)
+[Figure 1](_includes/cassandra_before.html)
+{% include cassandra_before.html %}
 
+However, this operation was not enough for some of the songs. See this [file](misc/similar_lines.txt), where I 
 N-gram vectorizer on line level: identifying identical words and leaving only one
 
 
