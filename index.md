@@ -60,26 +60,14 @@ This procedure was repeated for each song, but I will show it on one example. Fi
 
 Let us look at the song "Cassandra". In the figure below, yellow squares mean line combinations with the highest similarity. The figure shows 6 different sequences of yellow squares (only one part above or below the diagonal counts). These include two identical bridges, two choruses and two verse starting lines.
 
-[Figure before filtering](cassandra0.html)
+[Figure before filtering](notebooks/figures/cassandra_before.html)
 
 
 [Figure after filtering](cassandra1.html)
 
-<iframe 
-  src="_includes/cassandra1.html" 
-  width="100%" 
-  height="500px" 
-  style="border:none;">
-</iframe>
-
-<iframe 
-  src="cassandra1.html" 
-  width="100%" 
-  height="500px" 
-  style="border:none;">
-</iframe>
-
+{% raw %}
 {% include cassandra0.html %}
+{% endraw %}
 
 However, this operation was not enough for some of the songs. See this [funny file](misc/similar_lines.txt), where I exported some similar lines throuout the corpus. What helped was adding additional filters:
 ```
