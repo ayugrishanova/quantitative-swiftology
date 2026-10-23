@@ -62,6 +62,7 @@ Let us look at the song "Cassandra". In the figure below, yellow squares mean li
 
 [Figure before filtering](_includes/cassandra_before.html)
 
+
 [Figure after filtering](_includes/cassandra_after.html)
 
 {% include cassandra_before.html %}
@@ -99,8 +100,11 @@ Then, I ran four separate classification tasks. The training was done in [this](
 Links to the embeddings:
 
 [Qwen full songs](embeddings/qwen_full_song_embeddings.pkl)
+
 [Qwen individual lines](embeddings/qwen_list_lyrics_embeddings.pkl)
+
 [XML full songs]()
+
 [XML 1000 random lines](https://drive.google.com/file/d/1jmIvOdsFVLJjWU-AD-h_SjcdVujuUE2x/view?usp=sharing)
 
 ## Quantitative comparison of the embeddings
