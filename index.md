@@ -60,12 +60,12 @@ This procedure was repeated for each song, but I will show it on one example. Fi
 
 Let us look at the song "Cassandra". In the figure below, yellow squares mean line combinations with the highest similarity. The figure shows 6 different sequences of yellow squares (only one part above or below the diagonal counts). These include two identical bridges, two choruses and two verse starting lines.
 
-[Figure before filtering](_includes/cassandra_before.html)
+[Figure before filtering](_includes/cassandra0.html)
 
 
-[Figure after filtering](_includes/cassandra_after.html)
+[Figure after filtering](_includes/cassandra1.html)
 
-{% include cassandra_before.html %}
+{% include cassandra0.html %}
 
 However, this operation was not enough for some of the songs. See this [funny file](misc/similar_lines.txt), where I exported some similar lines throuout the corpus. What helped was adding additional filters:
 ```
