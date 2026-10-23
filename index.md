@@ -65,10 +65,10 @@ Let us look at the song "Cassandra". In the figure below, yellow squares mean li
 
 [Figure after filtering](cassandra1.html)
 
-<iframe src="{{ site.baseurl }}notebooks/figures/cassandra_before.html" width="100%" height="500px" frameborder="0"></iframe>
+<iframe src="{{ site.baseurl }}/notebooks/figures/cassandra_before.html" width="100%" height="500px" frameborder="0"></iframe>
 
 {% raw %}
-{% include cassandra1.html %}
+{% include_relative notebooks/figures/cassandra_before.html %}
 {% endraw %}
 
 However, this operation was not enough for some of the songs. See this [funny file](misc/similar_lines.txt), where I exported some similar lines throuout the corpus. What helped was adding additional filters:
@@ -103,11 +103,11 @@ Then, I ran four separate classification tasks. The training was done in [this](
 
 Links to the embeddings:
 
-[Qwen full songs](embeddings/qwen_full_song_embeddings.pkl)
+[Qwen full songs](notebooks/embeddings/qwen_full_song_embeddings.pkl)
 
-[Qwen individual lines](embeddings/qwen_list_lyrics_embeddings.pkl)
+[Qwen individual lines](notebooks/embeddings/qwen_list_lyrics_embeddings.pkl)
 
-[XML full songs]()
+[XML full songs](https://drive.google.com/file/d/1pVn8JVoP4qWbi0BS-_sFtkPRsiCec0m7/view?usp=sharing)
 
 [XML 1000 random lines](https://drive.google.com/file/d/1jmIvOdsFVLJjWU-AD-h_SjcdVujuUE2x/view?usp=sharing)
 
@@ -197,7 +197,8 @@ The results for the XML model are quite suspicious...
 
 ## Qualitative comparison 
 
-Separate page
+I chose the t-SNE dimensionality reduction technique, compare figures below. t-SNE makes good clusters that somehow correspond to the classification
+[Figure](figures/songs_dimred.png)
 
 ## Conclusion
 
