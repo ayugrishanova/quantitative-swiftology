@@ -3,6 +3,8 @@ layout: default
 title: Final project
 ---
 
+{% raw %}
+
 # We Are Never Ever Getting BERT To Get Her
 
 
@@ -79,3 +81,5 @@ Overall, the limitations of my project:
 
 [^1]: yeah, Taylor Swift is impressively productive
 [^2]: I was planning to use deBERTa, but I encountered a problem with training. The name of the project stayed because I loved the pun too much.
+
+{% endraw %}
