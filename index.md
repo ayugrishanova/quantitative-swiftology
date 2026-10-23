@@ -63,13 +63,7 @@ Let us look at the song "Cassandra". In the figure below, yellow squares mean li
 [Figure before filtering](notebooks/figures/cassandra_before.html)
 
 
-[Figure after filtering](cassandra1.html)
-
-<iframe src="{{ site.baseurl }}/notebooks/figures/cassandra_before.html" width="100%" height="500px" frameborder="0"></iframe>
-
-{% raw %}
-{% include_relative notebooks/figures/cassandra_before.html %}
-{% endraw %}
+[Figure after filtering](notebooks/figures/cassandra_after.html)
 
 However, this operation was not enough for some of the songs. See this [funny file](misc/similar_lines.txt), where I exported some similar lines throuout the corpus. What helped was adding additional filters:
 ```
@@ -198,7 +192,7 @@ The results for the XML model are quite suspicious...
 ## Qualitative comparison 
 
 I chose the t-SNE dimensionality reduction technique, compare figures below. t-SNE makes good clusters that somehow correspond to the classification
-[Figure](figures/songs_dimred.png)
+[Figure](notebooks/figures/songs_dimred.png)
 
 ## Conclusion
 
