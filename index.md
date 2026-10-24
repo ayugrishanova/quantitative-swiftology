@@ -213,6 +213,8 @@ Here, UMAP dimentionality reduction worked the best
 
 [Figure Pen Category](notebooks/figures/xlm_songs_pen_album.html)
 
+[Figure Song Name](notebooks/figures/qwen_lines_songname.html)
+
 ### XLM
 
 #### Songs
@@ -232,12 +234,18 @@ Again, I chose the t-SNE dimansionality reduction, However, UMAP clustering seem
 
 I can make the following conclusions:
 
+* the pen category is not easy to formalize
 * quantitatively, XLM performs better than Qwen, but there are suspicions of overfittings
 * qualitatively, it is possible to trace several songwriting trends using text visualization (for example, it clusters songs in which a lot of *you* in them ~ songs that read like a letter)
+* such visualizations work best for thematic clustering
 
 Discovered limitations of my project:
 
 * using either full songs or individual song lines. As experience showed, neither of the choices is good. Knowing this, I would use lyric blocks (individual choruses, bridges, verses) instead.
+
+Futher work:
+
+* song structure comparison using Count vectorizer
 
 
 [^1]: yeah, Taylor Swift is impressively productive
