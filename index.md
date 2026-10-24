@@ -209,9 +209,9 @@ I chose the t-SNE dimensionality reduction technique, compare figures below. t-S
 #### Lines
 
 Here, UMAP dimentionality reduction worked the best
-![Figure](notebooks/figures/lines_dimred_xml.png)
+![Figure](notebooks/figures/lines_dimred.png)
 
-[Figure Pen Category](notebooks/figures/xlm_songs_pen_album.html)
+[Figure Pen Category](notebooks/figures/qwen_lines_pen.html)
 
 [Figure Song Name](notebooks/figures/qwen_lines_songname.html)
 
@@ -224,6 +224,8 @@ Again, I chose the t-SNE dimansionality reduction, However, UMAP clustering seem
 ![Figure](notebooks/figures/songs_dimred_xml.png)
 
 [Figure Pen Category](notebooks/figures/qwen_song_categories.html)
+
+[Figure Pen Category](notebooks/figures/xlm_songs_pen_album.html)
 
 #### Lines
 
