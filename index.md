@@ -62,8 +62,6 @@ Let us look at the song "Cassandra". In the figure below, yellow squares mean li
 
 [Figure before filtering](notebooks/figures/cassandra_before.html)
 
-{% include_relative notebooks/figures/cassandra_before.html}
-
 
 [Figure after filtering](notebooks/figures/cassandra_after.html)
 
