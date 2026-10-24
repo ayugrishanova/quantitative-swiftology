@@ -200,7 +200,7 @@ The results for the XML model are quite suspicious...
 I chose the t-SNE dimensionality reduction technique, compare figures below. t-SNE makes good clusters that somehow correspond to the classification
 ![Figure](notebooks/figures/songs_dimred.png)
 
-![Figure Pen Category](notebooks/figures/qwen_song_categories.html)
+[Figure Pen Category](notebooks/figures/qwen_song_categories.html)
 
 [Figure Album](notebooks/figures/qwen_song_Album.html)
 
