@@ -62,6 +62,8 @@ Let us look at the song "Cassandra". In the figure below, yellow squares mean li
 
 [Figure before filtering](notebooks/figures/cassandra_before.html)
 
+{% include_relative notebooks/figures/cassandra_before.html}
+
 
 [Figure after filtering](notebooks/figures/cassandra_after.html)
 
@@ -108,6 +110,8 @@ Links to the embeddings:
 ## Quantitative comparison of the embeddings
 
 With Pen Category labels (55 songs, 1843 lines), I ran four different classification tasks. The size of the song dataset (55 songs...) is laughable and, expectedly, does not show good results. Line classification seemed promising.
+
+Only interesting Figures are shown (the majority weren't)
 
 ### Qwen embeddings
 
@@ -191,16 +195,52 @@ The results for the XML model are quite suspicious...
 
 ## Qualitative comparison 
 
+### Qwen
+
+#### Songs
+
 I chose the t-SNE dimensionality reduction technique, compare figures below. t-SNE makes good clusters that somehow correspond to the classification
-[Figure](notebooks/figures/songs_dimred.png)
+![Figure](notebooks/figures/songs_dimred.png)
+
+![Figure Pen Category](notebooks/figures/qwen_song_categories.html)
+
+[Figure Album](notebooks/figures/qwen_song_Album.html)
+
+[Figure Aaron Dessner](notebooks/figures/qwen_song_is_aaron_in_writers.html)
+
+#### Lines
+
+Here, UMAP dimentionality reduction worked the best
+![Figure](notebooks/figures/lines_dimred_xml.png)
+
+[Figure Pen Category](notebooks/figures/xlm_songs_pen_album.html)
+
+### XLM
+
+#### Songs
+
+Again, I chose the t-SNE dimansionality reduction, However, UMAP clustering seems fine too.
+
+![Figure](notebooks/figures/songs_dimred_xml.png)
+
+[Figure Pen Category](notebooks/figures/qwen_song_categories.html)
+
+#### Lines
+
+![Figure](notebooks/figures/lines_dimred_xml.png)
+
 
 ## Conclusion
 
 I can make the following conclusions:
 
-Overall, the limitations of my project:
+* quantitatively, XLM performs better than Qwen, but there are suspicions of overfittings
+* qualitatively, it is possible to trace several songwriting trends using text visualization (for example, it clusters songs in which a lot of *you* in them ~ songs that read like a letter)
+
+Discovered limitations of my project:
 
 * using either full songs or individual song lines. As experience showed, neither of the choices is good. Knowing this, I would use lyric blocks (individual choruses, bridges, verses) instead.
+
 
 [^1]: yeah, Taylor Swift is impressively productive
 [^2]: I was planning to use deBERTa, but I encountered a problem with training. The name of the project stayed because I loved the pun too much.
